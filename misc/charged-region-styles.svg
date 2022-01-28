@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0177BB;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:12px;}
+	.st3{fill:#CB3627;}
+	.st4{fill:#95979A;}
+	.st5{fill:#009988;}
+	.st6{fill:#EE7733;}
+	.st7{fill:#AA4499;}
+	.st8{stroke:#000000;stroke-miterlimit:10;}
+</style>
+<rect x="297.8" y="56.1" class="st0" width="31.7" height="31.7"/>
+<text transform="matrix(1 0 0 1 338.583 74.9676)" class="st1 st2">Positive charge</text>
+<text transform="matrix(1 0 0 1 239.0288 74.9676)" class="st1 st2">#0177BB</text>
+<text transform="matrix(1 0 0 1 238.2847 113.9676)" class="st1 st2">#CB3627</text>
+<rect x="297.8" y="94.7" class="st3" width="31.7" height="31.7"/>
+<text transform="matrix(1 0 0 1 338.583 113.611)" class="st1 st2">Negative charge</text>
+<rect x="297.8" y="133.4" class="st4" width="31.7" height="31.7"/>
+<text transform="matrix(1 0 0 1 338.583 153.5144)" class="st1 st2">Null distributions / disorder</text>
+<text transform="matrix(1 0 0 1 238.7085 153.5144)" class="st1 st2">#828282</text>
+<rect x="297.8" y="172" class="st5" width="31.7" height="31.7"/>
+<text transform="matrix(1 0 0 1 338.583 192.0918)" class="st1 st2">Helix</text>
+<text transform="matrix(1 0 0 1 241.583 192.0918)" class="st1 st2">#009988</text>
+<rect x="297.8" y="210.7" class="st6" width="31.7" height="31.7"/>
+<text transform="matrix(1 0 0 1 338.583 230.8011)" class="st1 st2">Sheet</text>
+<text transform="matrix(1 0 0 1 238.935 230.8011)" class="st1 st2">#EE7733</text>
+<rect x="297.8" y="249.3" class="st7" width="31.7" height="31.7"/>
+<text transform="matrix(1 0 0 1 338.583 268.2565)" class="st1 st2">Charged regions</text>
+<text transform="matrix(1 0 0 1 238.9228 268.2565)" class="st1 st2">#AA4499</text>
+<path class="st8" d="M443.4,114"/>
+<path class="st8" d="M238.6,114"/>
+</svg>
