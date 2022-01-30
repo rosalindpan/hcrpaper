@@ -16,7 +16,7 @@
  * **`sc_orfs`**: List of Sacharomyces cerevisae ORFs with different attributes.
  * **`uversky`**: Output files from Uversky analysis.
 
-### **`figure`** 
+### **`figures`** 
 Jupyter notebooks used to produce final figures for the manuscript.
 
 ### **`misc`** 
