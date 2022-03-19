@@ -1,0 +1,56 @@
+Thanks for using AGADIR
+http://agadir.crg.es
+Copyright @1997-2002, Lacroix E., Munoz V., Petukhov M. & Serrano, L.
+
+pH Screening
+		Initial pH	4
+		Final pH	11
+Temperature          300
+Ionic Strength       0.1
+
+Nterm                free
+Cterm                free
+
+Peptide 1	EEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKK
+
+
+		Predicted Helical Content [%]
+
+	pH ,    1  
+ 4.00 , 96.84
+ 4.20 , 77.47
+ 4.40 , 89.26
+ 4.60 , 95.06
+ 4.80 , 95.74
+ 5.00 , 96.14
+ 5.20 , 96.36
+ 5.40 , 96.50
+ 5.60 , 96.58
+ 5.80 , 96.64
+ 6.00 , 96.67
+ 6.20 , 96.70
+ 6.40 , 96.71
+ 6.60 , 96.73
+ 6.80 , 96.77
+ 7.00 , 96.80
+ 7.20 , 96.84
+ 7.40 , 96.89
+ 7.60 , 96.95
+ 7.80 , 97.02
+ 8.00 , 97.09
+ 8.20 , 97.15
+ 8.40 , 97.19
+ 8.60 , 97.23
+ 8.80 , 97.25
+ 9.00 , 97.26
+ 9.20 , 97.25
+ 9.40 , 97.22
+ 9.60 , 97.16
+ 9.80 , 97.06
+10.00 , 96.89
+10.20 , 96.60
+10.40 , 96.08
+10.60 , 95.14
+10.80 , 93.57
+11.00 , 70.48
+11.20 , 27.00

@@ -1,0 +1,40 @@
+Thanks for using AGADIR
+http://agadir.crg.es
+Copyright @1997-2002, Lacroix E., Munoz V., Petukhov M. & Serrano, L.
+
+Ionic Strength Screening
+		Initial Ionic Strength	0
+		Final Ionic Strength	1
+pH          7
+Temperature       300
+
+Nterm                free
+Cterm                free
+
+Peptide 1	EEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKKEEEEKKKK
+
+
+		Predicted Helical Content [%]
+
+	Ionic Strength ,    1  
+0.00 , 95.87
+0.05 , 95.87
+0.10 , 96.76
+0.15 , 96.84
+0.20 , 96.83
+0.25 , 96.79
+0.30 , 96.74
+0.35 , 96.65
+0.40 , 96.55
+0.45 , 96.44
+0.50 , 96.35
+0.55 , 96.21
+0.60 , 96.06
+0.65 , 95.94
+0.70 , 95.76
+0.75 , 95.62
+0.80 , 95.41
+0.85 , 95.24
+0.90 , 95.06
+0.95 , 94.78
+1.00 , 94.54
