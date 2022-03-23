@@ -82,30 +82,6 @@ def read_bfactor_from_pdb(filepath):
         return(np.array(pLDDTs))
 
 
-def calculate_hydropathy(s, scale='kd'):
-    """
-    Given a sequence (a string or Seq object), calculate the mean hydropathy according to the Kyte-Doolittle scale
-    (default) or an externally supplied scale (must be a lenght-20 dictionary with amino acids coded as one-letter)
-    and upper case).
-    The function will strip all non-amino acid characters.
-    """
-    if scale == 'kd':
-        scale = {"A": 1.8, "R": -4.5, "N": -3.5, "D": -3.5, "C": 2.5, "E": -3.5,
-                      "Q": -3.5, "G": -0.4, "H": -3.2, "I": 4.5, "L": 3.8, "K": -3.9,
-                      "M": 1.9, "F": 2.8, "P": -1.6, "S": -0.8, "T": -0.7, "W": -0.9,
-                      "Y": -1.3, "V": 4.2}
-    
-    seq = s.upper()
-    seq = ''.join([i for i in seq if i in aas])
-    if len(seq) == 0:
-        raise ValueError("Invalid sequence supplied: {}".format(s))
-    
-    hydro = []
-    for aa in seq:
-        hydro.append(scale[aa])
-    return(np.mean(hydro))
-
-
 def read_af_output(fdir, uniprot_id):
     '''
     read in AlphaFold pdb file as a mdtraj file.

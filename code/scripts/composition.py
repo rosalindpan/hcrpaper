@@ -167,3 +167,39 @@ def calculate_seq_complexity(seq, typ='k1', norm=False):
 
     
     return(complexity)
+
+
+def calculate_hydropathy(s, scale='kd_norm'):
+    """
+    Given a sequence (a string or Seq object), calculate the mean hydropathy according to the normalzied Kyte-Doolittle scale
+    (scale='kd_norm', default), the raw Kyte-Doolittle scale (scale='kd') or an externally supplied scale
+    (must be a length-20 dictionary with amino acids coded as one-letter and upper case).
+    The function will strip all non-amino acid characters.
+    """
+    kd = {"A": 1.8, "R": -4.5, "N": -3.5, "D": -3.5, "C": 2.5, "E": -3.5,
+                      "Q": -3.5, "G": -0.4, "H": -3.2, "I": 4.5, "L": 3.8, "K": -3.9,
+                      "M": 1.9, "F": 2.8, "P": -1.6, "S": -0.8, "T": -0.7, "W": -0.9,
+                      "Y": -1.3, "V": 4.2}
+    
+    if scale == 'kd_norm':
+        vals = list(kd.values())
+        scaled_vals = [v-np.min(vals) for v in vals]
+
+        kd_scale_norm = {}
+        for k in kd.keys():
+            kd_scale_norm[k] = (kd[k] - np.min(vals)) / np.max(scaled_vals)
+        
+        scale = kd_scale_norm
+
+    elif scale == 'kd':
+        scale = kd
+    
+    seq = s.upper()
+    seq = ''.join([i for i in seq if i in aas])
+    if len(seq) == 0:
+        raise ValueError("Invalid sequence supplied: {}".format(s))
+    
+    hydro = []
+    for aa in seq:
+        hydro.append(scale[aa])
+    return(np.mean(hydro))
