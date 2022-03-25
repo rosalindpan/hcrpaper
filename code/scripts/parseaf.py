@@ -133,6 +133,67 @@ def read_seq_from_pdb(filepath):
         return(''.join([three_to_one_map[aa] for aa in resids]))
 
 
+def read_af_output(fdir, uniprot_id):
+    '''
+    read in AlphaFold pdb file as a mdtraj file.
+    input:
+    fdir - (str) filepath to AlphaFold data
+    uniprot_id - (str) 
+    output:
+    mdtraj pdb file
+    '''
+    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v1.pdb'
+    if path.exists(fpath):
+        pdb = md.load(fpath)
+    else:
+        pdb = None
+    return pdb
+
+
+def get_percent_helix(fdir, uniprot_id, left_bound, right_bound):
+    af_pdb = read_af_output(fdir, uniprot_id)
+    if not af_pdb is None:
+        ss = md.compute_dssp(af_pdb, simplified=True)[0]
+        region_ss = ss[left_bound:(right_bound+1)]
+        helix_cnt = collections.Counter(region_ss)['H']
+        helix_p = helix_cnt / (right_bound - left_bound + 1)
+    else:
+        helix_p = None
+    return helix_p
+
+
+def get_freq_values_in_range(arr, lower_bound, upper_bound):
+    '''
+    helper function for get_disorder_label
+    '''
+    cnt_in_range = 0
+    for i in arr:
+        if (i >= lower_bound) and (i <= upper_bound):
+            cnt_in_range += 1
+    return cnt_in_range / len(arr) 
+
+
+def get_structure_label(fdir, uniprot_id, left_bound, right_bound,
+                        helical_cutoff=0.8, bfactor_cutoff=0.5):
+    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v1.pdb'
+    bfactor = read_bfactor_from_pdb(fpath)[left_bound:(right_bound+1)]
+    len_region = right_bound - left_bound + 1
+    disorder_freq = get_freq_values_in_range(bfactor, 0, 50)
+    order_freq = get_freq_values_in_range(bfactor, 70, 100)
+    p_helix = get_percent_helix(fdir, uniprot_id, left_bound, right_bound)
+    if disorder_freq >= bfactor_cutoff:
+        label = 'disordered'
+    elif (order_freq >= bfactor_cutoff) and (p_helix >= helical_cutoff):
+        label = 'helix'
+    else:
+        label = 'unclassified'
+    return label
+
+
+
+### DELTE THIS AFTER TESTING ALL FIGURE NOTEBOOKS
+
+
 # def get_percent_helix(ss, bfactor, len_region):
 #     cnt_helix = 0
 #     for i, label in enumerate(ss):
@@ -184,3 +245,5 @@ def read_seq_from_pdb(filepath):
 #     return label
 
 # # below 70% or above 70% and predicted coil
+
+
