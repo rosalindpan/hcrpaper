@@ -2,6 +2,7 @@ import numpy as np
 from scipy.stats import entropy
 import math
 import string
+import crutil as util
 
 
 # Amino acids
@@ -112,6 +113,47 @@ def get_character_freqs(seq, counts = False, sort_output = True, gaps = False):
         return(all_seq_freqs)
     else:
         return(all_seq_aas, all_seq_freqs)
+
+
+def count_aa(seq, states):
+    '''
+    Count the number of each amino acid in a sequence.
+    '''
+    aa_count = {}
+    for state in states:
+        aa_count[state] = 0
+    for aa in seq:
+        aa_count[aa] += 1
+    return aa_count
+
+
+
+def get_composition(seq, states, pseudocount=0.0, prior=None):
+    '''
+    Computes the composition of a sequence (seq) in terms of its constituent parts (states, iterable)
+
+    Inputs:
+        sequence: a string of characters
+
+    Returns: An array representing the compositions
+    '''
+    n = len(states)
+    states_dict = util.get_states_dict(states)
+    dict_comp = count_aa(seq, states)
+     
+    for k in states_dict:
+        if not prior is None:
+            dict_comp[k] = (dict_comp[k] + pseudocount * prior[states_dict[k]] * n) /\
+                            (len(seq) + pseudocount * n)
+        else:
+            dict_comp[k] = (dict_comp[k] + pseudocount) / (len(seq) + pseudocount * n)
+
+    # dictionary to vector
+    comp_vector = util.dict_to_vector(dict_comp, states)
+
+    assert (np.sum(comp_vector) <= 1 + 1e-6) and (np.sum(comp_vector) >= 1 - 1e-6)
+
+    return comp_vector
 
 
 def calculate_seq_complexity(seq, typ='k1', norm=False):

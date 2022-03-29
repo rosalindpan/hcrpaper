@@ -2,6 +2,8 @@
 utility functions
 '''
 
+import numpy as np
+
 def remove_gaps(seq):
     '''
     remove gaps ('-') in an amino acid sequence.
@@ -58,3 +60,30 @@ def combine_regions(regions):
         i = tmp_index + 1
 
     return combined_regions
+
+
+def dict_to_vector(input_dict, states):
+    '''
+    Convert a dictionary to a 1d array in the order of the states.
+    '''
+    rv = []
+    for state in states:
+        if state in input_dict.keys():
+            rv.append(input_dict[state])
+        else:
+            rv.append(0)
+    vector = np.asarray(rv)
+    return vector
+
+
+def get_states_dict(states):
+    '''
+    Find a dictionary that maps each state in the state space to its index
+
+    Analysis of real sequences uses all_aa as states
+    '''
+    states_dict = {}
+    for i, state in enumerate(states):
+        states_dict[state] = i
+
+    return states_dict
