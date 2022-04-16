@@ -1,0 +1,23 @@
+Golgi apparatus;GO:0005794
+cell cortex;GO:0005938
+cell wall;GO:0005618
+cellular bud;GO:0005933
+cellular component;GO:0005575
+chromosome;GO:0005694
+cytoplasm;GO:0005737
+cytoplasmic vesicle;GO:0031410
+cytoskeleton;GO:0005856
+endomembrane system;GO:0012505
+endoplasmic reticulum;GO:0005783
+extracellular region;GO:0005576
+membrane;GO:0016020
+microtubule organizing center;GO:0005815
+mitochondrial envelope;GO:0005740
+mitochondrion;GO:0005739
+nucleolus;GO:0005730
+nucleus;GO:0005634
+peroxisome;GO:0005777
+plasma membrane;GO:0005886
+ribosome;GO:0005840
+site of polarized growth;GO:0030427
+vacuole;GO:0005773

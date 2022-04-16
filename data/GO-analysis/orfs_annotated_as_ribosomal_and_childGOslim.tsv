@@ -1,0 +1,521 @@
+YAL035W	FUN12	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YBL027W	RPL19B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBL027W	RPL19B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YBL038W	MRPL16	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBL038W	MRPL16	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBL038W	MRPL16	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YBL038W	MRPL16	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YBL072C	RPS8A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBL072C	RPS8A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YBL087C	RPL23A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBL087C	RPL23A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YBL090W	MRP21	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBL090W	MRP21	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YBL092W	RPL32	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBL092W	RPL32	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YBR031W	RPL4A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR031W	RPL4A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YBR048W	RPS11B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR048W	RPS11B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YBR120C	CBP6	Verified	GO:0005761	mitochondrial ribosome	cellular_component	part of	manually curated
+YBR122C	MRPL36	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR122C	MRPL36	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YBR146W	MRPS9	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR146W	MRPS9	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YBR181C	RPS6B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR181C	RPS6B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YBR189W	RPS9B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR189W	RPS9B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YBR191W	RPL21A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR191W	RPL21A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YBR251W	MRPS5	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR251W	MRPS5	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YBR268W	MRPL37	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR268W	MRPL37	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YBR282W	MRPL27	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR282W	MRPL27	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YCR003W	MRPL32	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YCR003W	MRPL32	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YCR031C	RPS14A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YCR031C	RPS14A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YCR046C	IMG1	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YCR046C	IMG1	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YCR071C	IMG2	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YCR071C	IMG2	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YCR077C	PAT1	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YEL050C	RML2	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YEL050C	RML2	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YEL054C	RPL12A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YEL054C	RPL12A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YER050C	RSM18	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YER050C	RSM18	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YER074W	RPS24A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YER074W	RPS24A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YER102W	RPS8B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YER102W	RPS8B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YER117W	RPL23B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YER117W	RPL23B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YER131W	RPS26B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YER131W	RPS26B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YER165W	PAB1	Verified	GO:0005840	ribosome	cellular_component	part of	manually curated
+YHL001W	RPL14B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHL001W	RPL14B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YHL004W	MRP4	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHL004W	MRP4	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YHL015W	RPS20	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHL015W	RPS20	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YHL033C	RPL8A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHL033C	RPL8A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YHR010W	RPL27A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR010W	RPL27A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YHR021C	RPS27B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR021C	RPS27B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YHR059W	FYV4	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR059W	FYV4	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YHR075C	PPE1	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR075C	PPE1	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YHR141C	RPL42B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR141C	RPL42B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YHR147C	MRPL6	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR147C	MRPL6	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR147C	MRPL6	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YHR147C	MRPL6	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YHR203C	RPS4B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YHR203C	RPS4B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YIL018W	RPL2B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YIL018W	RPL2B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YIL052C	RPL34B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YIL052C	RPL34B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YIL069C	RPS24B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YIL069C	RPS24B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YIL093C	RSM25	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YIL093C	RSM25	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YIL133C	RPL16A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YIL133C	RPL16A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YIL148W	RPL40A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YIL148W	RPL40A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YKL003C	MRP17	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL003C	MRP17	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL003C	MRP17	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YKL003C	MRP17	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YKL006W	RPL14A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL006W	RPL14A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YKL081W	TEF4	Verified	GO:0005840	ribosome	cellular_component	part of	manually curated
+YKL138C	MRPL31	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL138C	MRPL31	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YKL155C	RSM22	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL155C	RSM22	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YKL156W	RPS27A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL156W	RPS27A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YKL167C	MRP49	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL167C	MRP49	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YKL170W	MRPL38	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL170W	MRPL38	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL170W	MRPL38	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YKL170W	MRPL38	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YKL180W	RPL17A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKL180W	RPL17A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YKR006C	MRPL13	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKR006C	MRPL13	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YKR057W	RPS21A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKR057W	RPS21A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YKR085C	MRPL20	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKR085C	MRPL20	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YKR094C	RPL40B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YKR094C	RPL40B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YFR009W	GCN20	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YFR049W	YMR31	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YFR049W	YMR31	Verified	GO:0005761	mitochondrial ribosome	cellular_component	part of	manually curated
+YFR031C-A	RPL2A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YFR031C-A	RPL2A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YER056C-A	RPL34A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR084C-A	RPL19A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YBR084C-A	RPL19A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL061C	RPS29B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL061C	RPS29B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL061C	RPS29B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDL061C	RPS29B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDL069C	CBS1	Verified	GO:0005761	mitochondrial ribosome	cellular_component	part of	manually curated
+YDL075W	RPL31A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL075W	RPL31A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL081C	RPP1A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL081C	RPP1A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL082W	RPL13A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL082W	RPL13A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL083C	RPS16B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL083C	RPS16B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDL130W	RPP1B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL130W	RPP1B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL133C-A	RPL41B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL133C-A	RPL41B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL136W	RPL35B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL136W	RPL35B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL184C	RPL41A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL184C	RPL41A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL191W	RPL35A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL191W	RPL35A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDL202W	MRPL11	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL202W	MRPL11	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR012W	RPL4B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR012W	RPL4B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDR025W	RPS11A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR025W	RPS11A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDR036C	EHD3	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR036C	EHD3	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDR041W	RSM10	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR041W	RSM10	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDR049W	VMS1	Verified	GO:0005840	ribosome	cellular_component	colocalizes with	manually curated
+YDR064W	RPS13	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR064W	RPS13	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR064W	RPS13	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR064W	RPS13	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDR064W	RPS13	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDR064W	RPS13	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDR077W	SED1	Verified	GO:0005840	ribosome	cellular_component	part of	manually curated
+YDR115W	MRX14	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR115W	MRX14	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR116C	MRPL1	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR116C	MRPL1	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR175C	RSM24	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR175C	RSM24	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDR197W	CBS2	Verified	GO:0005761	mitochondrial ribosome	cellular_component	part of	manually curated
+YDR237W	MRPL7	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR237W	MRPL7	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR283C	GCN2	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YDR296W	MHR1	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR296W	MHR1	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR322W	MRPL35	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR322W	MRPL35	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR322W	MRPL35	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR322W	MRPL35	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR337W	MRPS28	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR337W	MRPS28	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDR347W	MRP1	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR347W	MRP1	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDR382W	RPP2B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR382W	RPP2B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDR405W	MRP20	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR405W	MRP20	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR405W	MRP20	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR405W	MRP20	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR418W	RPL12B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR418W	RPL12B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDR447C	RPS17B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR447C	RPS17B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDR450W	RPS18A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR450W	RPS18A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YDR462W	MRPL28	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR462W	MRPL28	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YDR471W	RPL27B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR471W	RPL27B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YDR494W	RSM28	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR494W	RSM28	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDR496C	PUF6	Verified	GO:0015934	large ribosomal subunit	cellular_component	part of	manually curated
+YDR500C	RPL37B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDR500C	RPL37B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL030W	RPL30	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL030W	RPL30	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL031C	RPL24A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL031C	RPL24A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL068W	MNP1	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL068W	MNP1	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YGL076C	RPL7A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL076C	RPL7A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL099W	LSG1	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL103W	RPL28	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL103W	RPL28	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL123W	RPS2	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL123W	RPS2	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGL123W	RPS2	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGL123W	RPS2	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGL129C	RSM23	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL129C	RSM23	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YGL135W	RPL1B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL135W	RPL1B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL147C	RPL9A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL147C	RPL9A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGL189C	RPS26A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGL189C	RPS26A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGL195W	GCN1	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YGR027C	RPS25A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR027C	RPS25A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGR034W	RPL26B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR034W	RPL26B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGR054W	""	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YGR054W	""	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGR076C	MRPL25	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR076C	MRPL25	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YGR084C	MRP13	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR084C	MRP13	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR084C	MRP13	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YGR084C	MRP13	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YGR085C	RPL11B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR085C	RPL11B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGR118W	RPS23A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR118W	RPS23A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGR148C	RPL24B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR148C	RPL24B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YGR165W	MRPS35	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR165W	MRPS35	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YGR214W	RPS0A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR214W	RPS0A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YGR215W	RSM27	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR215W	RSM27	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YGR220C	MRPL9	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YGR220C	MRPL9	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YGR285C	ZUO1	Verified	GO:0005840	ribosome	cellular_component	part of	manually curated
+YJL063C	MRPL8	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL063C	MRPL8	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YJL096W	MRPL49	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL096W	MRPL49	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL096W	MRPL49	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YJL096W	MRPL49	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YJL136C	RPS21B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL136C	RPS21B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YJL177W	RPL17B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL177W	RPL17B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YJL189W	RPL39	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL189W	RPL39	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YJL190C	RPS22A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL190C	RPS22A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YJL191W	RPS14B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJL191W	RPS14B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YJR047C	ANB1	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YJR094W-A	RPL43B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJR094W-A	RPL43B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YJR101W	RSM26	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJR101W	RSM26	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YJR113C	RSM7	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJR113C	RSM7	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YJR123W	RPS5	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJR123W	RPS5	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YJR123W	RPS5	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YJR145C	RPS4A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YJR145C	RPS4A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLL045C	RPL8B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLL045C	RPL8B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR029C	RPL15A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR029C	RPL15A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR048W	RPS0B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR048W	RPS0B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR061W	RPL22A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR061W	RPL22A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR075W	RPL10	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR075W	RPL10	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR167W	RPS31	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR167W	RPS31	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR167W	RPS31	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR167W	RPS31	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR185W	RPL37A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR185W	RPL37A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR204W	QRI5	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR204W	QRI5	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YLR244C	MAP1	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YLR249W	YEF3	Verified	GO:0005840	ribosome	cellular_component	part of	manually curated
+YLR249W	YEF3	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YLR264W	RPS28B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR264W	RPS28B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR287C-A	RPS30A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR287C-A	RPS30A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR312W-A	MRPL15	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR312W-A	MRPL15	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR312W-A	MRPL15	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YLR312W-A	MRPL15	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YLR325C	RPL38	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR325C	RPL38	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR333C	RPS25B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR333C	RPS25B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR340W	RPP0	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR340W	RPP0	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR344W	RPL26A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR344W	RPL26A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR344W	RPL26A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR367W	RPS22B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR367W	RPS22B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR388W	RPS29A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR388W	RPS29A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR388W	RPS29A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR388W	RPS29A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR406C	RPL31B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR406C	RPL31B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YLR439W	MRPL4	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR439W	MRPL4	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR439W	MRPL4	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YLR439W	MRPL4	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YLR441C	RPS1A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR441C	RPS1A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YLR448W	RPL6B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YLR448W	RPL6B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YML009C	MRPL39	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YML009C	MRPL39	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YML024W	RPS17A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YML024W	RPS17A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YML025C	YML6	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YML025C	YML6	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YML026C	RPS18B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YML026C	RPS18B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YML063W	RPS1B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YML063W	RPS1B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YML073C	RPL6A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YML073C	RPL6A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YMR024W	MRPL3	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR024W	MRPL3	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YMR116C	ASC1	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YMR121C	RPL15B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR121C	RPL15B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YMR142C	RPL13B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR142C	RPL13B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YMR143W	RPS16A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR143W	RPS16A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YMR158W	MRPS8	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR158W	MRPS8	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YMR188C	MRPS17	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR188C	MRPS17	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YMR193W	MRPL24	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR193W	MRPL24	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YMR194W	RPL36A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR194W	RPL36A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YMR225C	MRPL44	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR225C	MRPL44	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YMR230W	RPS10B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR230W	RPS10B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YMR242C	RPL20A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR242C	RPL20A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YMR286W	MRPL33	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YMR286W	MRPL33	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL005C	MRP7	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL005C	MRP7	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL007C	SIS1	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YNL014W	HEF3	Verified	GO:0022626	cytosolic ribosome	cellular_component	part of	manually curated
+YNL067W	RPL9B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL067W	RPL9B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YNL069C	RPL16B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL069C	RPL16B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YNL081C	SWS2	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL081C	SWS2	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YNL081C	SWS2	Verified	GO:0015935	small ribosomal subunit	cellular_component	part of	manually curated
+YNL096C	RPS7B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL096C	RPS7B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YNL122C	MRP35	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL122C	MRP35	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL137C	NAM9	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL137C	NAM9	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YNL162W	RPL42A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL162W	RPL42A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YNL177C	MRPL22	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL177C	MRPL22	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL178W	RPS3	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL178W	RPS3	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YNL178W	RPS3	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YNL178W	RPS3	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YNL185C	MRPL19	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL185C	MRPL19	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL252C	MRPL17	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL252C	MRPL17	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL252C	MRPL17	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL252C	MRPL17	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL255C	GIS2	Verified	GO:0042788	polysomal ribosome	cellular_component	part of	manually curated
+YNL284C	MRPL10	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL284C	MRPL10	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNL301C	RPL18B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL301C	RPL18B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YNL302C	RPS19B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL302C	RPS19B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YNL306W	MRPS18	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL306W	MRPS18	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNL306W	MRPS18	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YNL306W	MRPS18	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YNR022C	MRPL50	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNR022C	MRPL50	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YNR036C	MRPS12	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNR036C	MRPS12	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNR036C	MRPS12	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YNR036C	MRPS12	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YNR037C	RSM19	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YNR037C	RSM19	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YOL039W	RPP2A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOL039W	RPP2A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YOL040C	RPS15	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOL040C	RPS15	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YOL114C	PTH4	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YOL120C	RPL18A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOL120C	RPL18A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YOL121C	RPS19A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOL121C	RPS19A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YOL127W	RPL25	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOL127W	RPL25	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YOR063W	RPL3	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR063W	RPL3	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YOR096W	RPS7A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR096W	RPS7A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YOR150W	MRPL23	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR150W	MRPL23	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR150W	MRPL23	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YOR150W	MRPL23	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YOR158W	PET123	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR158W	PET123	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YOR167C	RPS28A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR167C	RPS28A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YOR182C	RPS30B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR182C	RPS30B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YOR234C	RPL33B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR234C	RPL33B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YOR293W	RPS10A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR293W	RPS10A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YOR312C	RPL20B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR312C	RPL20B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YOR369C	RPS12	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YOR369C	RPS12	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YPL012W	RRP12	Verified	GO:0005840	ribosome	cellular_component	part of	manually curated
+YPL013C	MRPS16	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL013C	MRPS16	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YPL079W	RPL21B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL079W	RPL21B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPL081W	RPS9A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL081W	RPS9A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YPL090C	RPS6A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL090C	RPS6A	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YPL118W	MRP51	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL118W	MRP51	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL118W	MRP51	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YPL118W	MRP51	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YPL131W	RPL5	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL131W	RPL5	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPL132W	COX11	Verified	GO:0005761	mitochondrial ribosome	cellular_component	part of	manually curated
+YPL143W	RPL33A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL143W	RPL33A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPL173W	MRPL40	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL173W	MRPL40	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL173W	MRPL40	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YPL173W	MRPL40	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YPL198W	RPL7B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL198W	RPL7B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPL215W	CBP3	Verified	GO:0005761	mitochondrial ribosome	cellular_component	part of	manually curated
+YPL220W	RPL1A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL220W	RPL1A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPR043W	RPL43A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPR043W	RPL43A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPR100W	MRPL51	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPR100W	MRPL51	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+YPR102C	RPL11A	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPR102C	RPL11A	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPR132W	RPS23B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPR132W	RPS23B	Verified	GO:0022627	cytosolic small ribosomal subunit	cellular_component	part of	manually curated
+YPR166C	MRP2	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPR166C	MRP2	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDL045W-A	MRP10	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL045W-A	MRP10	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YDL045W-A	MRP10	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YDL045W-A	MRP10	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+YFL034C-A	RPL22B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YFL034C-A	RPL22B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YFR032C-A	RPL29	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YFR032C-A	RPL29	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPL249C-A	RPL36B	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL249C-A	RPL36B	Verified	GO:0022625	cytosolic large ribosomal subunit	cellular_component	part of	manually curated
+YPL183W-A	RTC6	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+YPL183W-A	RTC6	Verified	GO:0005762	mitochondrial large ribosomal subunit	cellular_component	part of	manually curated
+Q0140	VAR1	Verified	GO:0003735	structural constituent of ribosome	molecular_function	enables	manually curated
+Q0140	VAR1	Verified	GO:0005761	mitochondrial ribosome	cellular_component	part of	manually curated
+Q0140	VAR1	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated
+Q0140	VAR1	Verified	GO:0005763	mitochondrial small ribosomal subunit	cellular_component	part of	manually curated

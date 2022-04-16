@@ -1,0 +1,417 @@
+YAL025C	MAK16	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YAL033W	POP5	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YAL059W	ECM1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBL004W	UTP20	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YBL004W	UTP20	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBL004W	UTP20	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBL014C	RRN6	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YBL014C	RRN6	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YBL014C	RRN6	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YBL018C	POP8	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YBL025W	RRN10	ORF	Verified	GO:0000500	RNA polymerase I upstream activating factor complex	cellular_component	part of	manually curated
+YBL025W	RRN10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBL026W	LSM2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBL028C	""	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YBR141C	BMT2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YBR141C	BMT2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBR142W	MAK5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBR154C	RPB5	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YBR154C	RPB5	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YBR167C	POP7	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YBR167C	POP7	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YBR186W	PCH2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBR245C	ISW1	ORF	Verified	GO:0030874	nucleolar chromatin	cellular_component	part of	manually curated
+YBR247C	ENP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBR247C	ENP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YBR257W	POP4	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YCL031C	RRP7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YCL031C	RRP7	ORF	Verified	GO:0034456	UTP-C complex	cellular_component	part of	manually curated
+YCL054W	SPB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCL054W	SPB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCL059C	KRR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCL059C	KRR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCR016W	""	ORF	Uncharacterized	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YCR035C	RRP43	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCR047C	BUD23	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCR057C	PWP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCR057C	PWP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCR057C	PWP2	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YCR057C	PWP2	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YCR072C	RSA4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCR086W	CSM1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YEL026W	SNU13	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YEL055C	POL5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YEL055C	POL5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YEL055C	POL5	ORF	Verified	GO:0030685	nucleolar preribosome	cellular_component	part of	manually curated
+YER002W	NOP16	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER006W	NUG1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER006W	NUG1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER035W	EDC2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER082C	UTP7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER082C	UTP7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER112W	LSM4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER127W	LCP5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER133W	GLC7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER146W	LSM5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YER164W	CHD1	ORF	Verified	GO:0030874	nucleolar chromatin	cellular_component	part of	manually curated
+YHL006C	SHU1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHL034C	SBP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHL034C	SBP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR052W	CIC1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR062C	RPP1	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YHR062C	RPP1	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YHR065C	RRP3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR066W	SSF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR088W	RPF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR089C	GAR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR089C	GAR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR089C	GAR1	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YHR143W-A	RPC10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YHR143W-A	RPC10	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YHR143W-A	RPC10	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YHR148W	IMP3	ORF	Verified	GO:0034457	Mpp10 complex	cellular_component	part of	manually curated
+YHR152W	SPO12	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR169W	DBP8	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR196W	UTP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YHR196W	UTP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR196W	UTP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR196W	UTP9	ORF	Verified	GO:0034455	t-UTP complex	cellular_component	part of	manually curated
+YIL019W	FAF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YIL019W	FAF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YIL035C	CKA1	ORF	Verified	GO:0034456	UTP-C complex	cellular_component	part of	manually curated
+YIL079C	AIR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YIL091C	UTP25	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YIL091C	UTP25	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YIL091C	UTP25	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YIL096C	BMT5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YIL096C	BMT5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YIL127C	RRT14	ORF	Uncharacterized	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YIR015W	RPR2	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YIR015W	RPR2	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YKL009W	MRT4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YKL009W	MRT4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL009W	MRT4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL014C	URB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YKL014C	URB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YKL014C	URB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL078W	DHR2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL082C	RRP14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL082C	RRP14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL099C	UTP11	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL125W	RRN3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL139W	CTK1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKL172W	EBP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKR010C	TOF2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKR024C	DBP7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKR060W	UTP30	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YKR060W	UTP30	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKR063C	LAS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKR081C	RPF2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YKR092C	SRP40	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFL002C	SPB4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YFL002C	SPB4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR001W	LOC1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YFR028C	CDC14	ORF	Verified	GO:0030869	RENT complex	cellular_component	part of	manually curated
+YDL014W	NOP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL014W	NOP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL031W	DBP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0030869	RENT complex	cellular_component	part of	manually curated
+YDL051W	LHP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL060W	TSR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL148C	NOP14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL148C	NOP14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL148C	NOP14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL153C	SAS10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL175C	AIR2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL208W	NHP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL208W	NHP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDL208W	NHP2	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YDL213C	NOP6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YDL213C	NOP6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR005C	MAF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR021W	FAL1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR026C	NSI1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YDR026C	NSI1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR060W	MAK21	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR083W	RRP8	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR083W	RRP8	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR083W	RRP8	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR087C	RRP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YDR101C	ARX1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR110W	FOB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR156W	RPA14	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YDR156W	RPA14	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YDR156W	RPA14	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YDR174W	HMO1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR280W	RRP45	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR299W	BFR2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YDR299W	BFR2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR312W	SSF2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR324C	UTP4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR324C	UTP4	ORF	Verified	GO:0034455	t-UTP complex	cellular_component	part of	manually curated
+YDR339C	FCF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR339C	FCF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR365C	ESF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YDR378C	LSM6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR398W	UTP5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR398W	UTP5	ORF	Verified	GO:0034455	t-UTP complex	cellular_component	part of	manually curated
+YDR412W	RRP17	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR439W	LRS4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR449C	UTP6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR449C	UTP6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YDR449C	UTP6	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YDR449C	UTP6	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YDR457W	TOM1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YDR496C	PUF6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGL019W	CKB1	ORF	Verified	GO:0034456	UTP-C complex	cellular_component	part of	manually curated
+YGL029W	CGR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGL078C	DBP3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGL111W	NSA1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGL171W	ROK1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR030C	POP6	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YGR072W	UPF3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR081C	SLX9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR090W	UTP22	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR090W	UTP22	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR090W	UTP22	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR090W	UTP22	ORF	Verified	GO:0034456	UTP-C complex	cellular_component	part of	manually curated
+YGR103W	NOP7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR103W	NOP7	ORF	Verified	GO:0070545	PeBoW complex	cellular_component	part of	manually curated
+YGR103W	NOP7	ORF	Verified	GO:0070545	PeBoW complex	cellular_component	part of	manually curated
+YGR128C	UTP8	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR128C	UTP8	ORF	Verified	GO:0034455	t-UTP complex	cellular_component	part of	manually curated
+YGR145W	ENP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR145W	ENP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR158C	MTR3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR159C	NSR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR251W	NOP19	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR251W	NOP19	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR251W	NOP19	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR280C	PXR1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR283C	""	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR285C	ZUO1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL006C	CTK2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL010C	NOP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YJL010C	NOP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YJL010C	NOP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL025W	RRN7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL025W	RRN7	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YJL025W	RRN7	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YJL025W	RRN7	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YJL033W	HCA4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL050W	MTR4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL069C	UTP18	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YJL069C	UTP18	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL069C	UTP18	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YJL069C	UTP18	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YJL076W	NET1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL076W	NET1	ORF	Verified	GO:0030869	RENT complex	cellular_component	part of	manually curated
+YJL109C	UTP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YJL109C	UTP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL109C	UTP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL109C	UTP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL109C	UTP10	ORF	Verified	GO:0034455	t-UTP complex	cellular_component	part of	manually curated
+YJL148W	RPA34	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJL148W	RPA34	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YJL148W	RPA34	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YJL148W	RPA34	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YJL148W	RPA34	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YJR002W	MPP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YJR002W	MPP10	ORF	Verified	GO:0034457	Mpp10 complex	cellular_component	part of	manually curated
+YJR022W	LSM8	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJR041C	URB2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YJR041C	URB2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YJR063W	RPA12	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YJR063W	RPA12	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YJR063W	RPA12	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YLL008W	DRS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLL011W	SOF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLL011W	SOF1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLL034C	RIX7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLL034C	RIX7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLL035W	GRC3	ORF	Verified	GO:0030874	nucleolar chromatin	cellular_component	part of	manually curated
+YLL035W	GRC3	ORF	Verified	GO:0030874	nucleolar chromatin	cellular_component	part of	manually curated
+YLR002C	NOC3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR009W	RLP24	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR051C	FCF2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR051C	FCF2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR068W	FYV7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR129W	DIP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR129W	DIP2	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YLR129W	DIP2	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YLR141W	RRN5	ORF	Verified	GO:0000500	RNA polymerase I upstream activating factor complex	cellular_component	part of	manually curated
+YLR141W	RRN5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR145W	RMP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR153C	ACS2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YLR175W	CBF5	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YLR186W	EMG1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR196W	PWP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR197W	NOP56	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR197W	NOP56	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR221C	RSA3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR222C	UTP13	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR222C	UTP13	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YLR222C	UTP13	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YLR223C	IFH1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR233C	EST1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR272C	YCS4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR276C	DBP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR318W	EST2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR336C	SGD1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR409C	UTP21	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YLR409C	UTP21	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR409C	UTP21	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YLR409C	UTP21	ORF	Verified	GO:0034388	Pwp2p-containing subcomplex of 90S preribosome	cellular_component	part of	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YLR449W	FPR4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YML043C	RRN11	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YML043C	RRN11	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YML043C	RRN11	ORF	Verified	GO:0070860	RNA polymerase I core factor complex	cellular_component	part of	manually curated
+YML074C	FPR3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YML074C	FPR3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YML093W	UTP14	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YML112W	CTK3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR014W	BUD22	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YMR049C	ERB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YMR049C	ERB1	ORF	Verified	GO:0070545	PeBoW complex	cellular_component	part of	manually curated
+YMR049C	ERB1	ORF	Verified	GO:0070545	PeBoW complex	cellular_component	part of	manually curated
+YMR049C	ERB1	ORF	Verified	GO:0070545	PeBoW complex	cellular_component	part of	manually curated
+YMR093W	UTP15	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR093W	UTP15	ORF	Verified	GO:0034455	t-UTP complex	cellular_component	part of	manually curated
+YMR121C	RPL15B	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YMR128W	ECM16	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YMR128W	ECM16	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR131C	RRB1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR190C	SGS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR229C	RRP5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YMR229C	RRP5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR233W	TRI1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YMR239C	RNT1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR269W	TMA23	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YMR269W	TMA23	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR270C	RRN9	ORF	Verified	GO:0000500	RNA polymerase I upstream activating factor complex	cellular_component	part of	manually curated
+YMR270C	RRN9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR290C	HAS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YMR290C	HAS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL002C	RLP7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL022C	RCM1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL061W	NOP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNL061W	NOP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL075W	IMP4	ORF	Verified	GO:0034457	Mpp10 complex	cellular_component	part of	manually curated
+YNL110C	NOP15	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL113W	RPC19	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YNL113W	RPC19	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YNL132W	KRE33	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNL147W	LSM7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL147W	LSM7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL175C	NOP13	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNL175C	NOP13	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL186W	UBP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL221C	POP1	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YNL224C	SQS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNL227C	JJJ1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL248C	RPA49	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNL248C	RPA49	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YNL248C	RPA49	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YNL248C	RPA49	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YNL282W	POP3	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YNL282W	POP3	ORF	Verified	GO:0005655	nucleolar ribonuclease P complex	cellular_component	part of	manually curated
+YNL299W	TRF5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNL308C	KRI1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNR004W	SWM2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNR038W	DBP6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNR046W	TRM112	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNR053C	NOG2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YNR054C	ESF2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YNR054C	ESF2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOL006C	TOP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOL010W	RCL1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOL021C	DIS3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YOL021C	DIS3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOL041C	NOP12	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOL077C	BRX1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOL080C	REX4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YOL115W	PAP2	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOL144W	NOP8	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR001W	RRP6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR001W	RRP6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR004W	UTP23	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YOR004W	UTP23	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR039W	CKB2	ORF	Verified	GO:0034456	UTP-C complex	cellular_component	part of	manually curated
+YOR061W	CKA2	ORF	Verified	GO:0034456	UTP-C complex	cellular_component	part of	manually curated
+YOR078W	BUD21	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR078W	BUD21	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR119C	RIO1	ORF	Verified	GO:0030874	nucleolar chromatin	cellular_component	part of	manually curated
+YOR119C	RIO1	ORF	Verified	GO:0030874	nucleolar chromatin	cellular_component	part of	manually curated
+YOR145C	PNO1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR191W	ULS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR210W	RPB10	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YOR210W	RPB10	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YOR224C	RPB8	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YOR224C	RPB8	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YOR272W	YTM1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR272W	YTM1	ORF	Verified	GO:0070545	PeBoW complex	cellular_component	part of	manually curated
+YOR272W	YTM1	ORF	Verified	GO:0070545	PeBoW complex	cellular_component	part of	manually curated
+YOR274W	MOD5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR287C	RRP36	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR294W	RRS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR295W	UAF30	ORF	Verified	GO:0000500	RNA polymerase I upstream activating factor complex	cellular_component	part of	manually curated
+YOR295W	UAF30	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR310C	NOP58	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR340C	RPA43	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YOR340C	RPA43	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YOR341W	RPA190	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YOR341W	RPA190	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YOR341W	RPA190	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YPL012W	RRP12	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YPL020C	ULP1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL043W	NOP4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YPL093W	NOG1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL126W	NAN1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL126W	NAN1	ORF	Verified	GO:0034455	t-UTP complex	cellular_component	part of	manually curated
+YPL146C	NOP53	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL146C	NOP53	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL157W	TGS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL198W	RPL7B	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL211W	NIP7	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YPL217C	BMS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPL217C	BMS1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR010C	RPA135	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YPR010C	RPA135	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YPR016C	TIF6	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR104C	FHL1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR110C	RPC40	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YPR110C	RPC40	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YPR112C	MRD1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR137W	RRP9	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR143W	RRP15	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YPR144C	NOC4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR144C	NOC4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR144C	NOC4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR144C	NOC4	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YPR169W	JIP5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YPR169W	JIP5	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YPR187W	RPO26	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YPR187W	RPO26	ORF	Verified	GO:0005736	RNA polymerase I complex	cellular_component	part of	manually curated
+YLR438C-A	LSM3	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YCR087C-A	""	ORF	Uncharacterized	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YHR072W-A	NOP10	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YHR072W-A	NOP10	ORF	Verified	GO:0031429	box H/ACA snoRNP complex	cellular_component	part of	manually curated
+YGR271C-A	EFG1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	high-throughput
+YGR271C-A	EFG1	ORF	Verified	GO:0005730	nucleolus	cellular_component	part of	manually curated
+YGR271C-A	EFG1	ORF	Verified	GO:0030685	nucleolar preribosome	cellular_component	part of	manually curated

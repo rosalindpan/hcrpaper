@@ -1,0 +1,899 @@
+YAL011W	SWC3	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YAL011W	SWC3	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YAL011W	SWC3	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YAL013W	DEP1	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0070829	heterochromatin maintenance	biological_process	involved in	manually curated
+YAL019W	FUN30	ORF	Verified	GO:0070829	heterochromatin maintenance	biological_process	involved in	manually curated
+YAL051W	OAF1	ORF	Verified	GO:0031940	positive regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YAL054C	ACS1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YAR002W	NUP60	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YAR003W	SWD1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBL002W	HTB2	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YBL003C	HTA2	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YBL006C	LDB7	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YBL006C	LDB7	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YBL008W	HIR1	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YBL008W	HIR1	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YBL052C	SAS3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YBL052C	SAS3	ORF	Verified	GO:0016569	covalent chromatin modification	biological_process	involved in	manually curated
+YBL052C	SAS3	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YBL052C	SAS3	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YBL052C	SAS3	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YBL079W	NUP170	ORF	Verified	GO:0006342	chromatin silencing	biological_process	involved in	manually curated
+YBL079W	NUP170	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YBL079W	NUP170	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YBL088C	TEL1	ORF	Verified	GO:0016572	histone phosphorylation	biological_process	involved in	manually curated
+YBL088C	TEL1	ORF	Verified	GO:0016572	histone phosphorylation	biological_process	involved in	manually curated
+YBL088C	TEL1	ORF	Verified	GO:0016572	histone phosphorylation	biological_process	involved in	manually curated
+YBL088C	TEL1	ORF	Verified	GO:0016572	histone phosphorylation	biological_process	involved in	manually curated
+YBL088C	TEL1	ORF	Verified	GO:0016572	histone phosphorylation	biological_process	involved in	manually curated
+YBR009C	HHF1	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YBR009C	HHF1	ORF	Verified	GO:0034729	histone H3-K79 methylation	biological_process	involved in	manually curated
+YBR009C	HHF1	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YBR010W	HHT1	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YBR060C	ORC2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR060C	ORC2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YBR060C	ORC2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR081C	SPT7	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YBR081C	SPT7	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YBR088C	POL30	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR088C	POL30	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YBR088C	POL30	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YBR095C	RXT2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR095C	RXT2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR095C	RXT2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR095C	RXT2	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YBR095C	RXT2	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YBR095C	RXT2	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YBR103W	SIF2	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YBR103W	SIF2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR103W	SIF2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR112C	CYC8	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YBR112C	CYC8	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YBR112C	CYC8	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YBR135W	CKS1	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YBR136W	MEC1	ORF	Verified	GO:0016572	histone phosphorylation	biological_process	involved in	manually curated
+YBR136W	MEC1	ORF	Verified	GO:0016572	histone phosphorylation	biological_process	involved in	manually curated
+YBR160W	CDC28	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR175W	SWD3	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR195C	MSI1	ORF	Verified	GO:0006335	DNA replication-dependent nucleosome assembly	biological_process	involved in	manually curated
+YBR198C	TAF5	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YBR198C	TAF5	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YBR202W	MCM7	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR202W	MCM7	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YBR215W	HPC2	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YBR215W	HPC2	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YBR231C	SWC5	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YBR231C	SWC5	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YBR245C	ISW1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YBR245C	ISW1	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YBR245C	ISW1	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YBR245C	ISW1	ORF	Verified	GO:0070829	heterochromatin maintenance	biological_process	involved in	manually curated
+YBR245C	ISW1	ORF	Verified	GO:0070829	heterochromatin maintenance	biological_process	involved in	manually curated
+YBR245C	ISW1	ORF	Verified	GO:1900050	negative regulation of histone exchange	biological_process	involved in	manually curated
+YBR245C	ISW1	ORF	Verified	GO:1902275	regulation of chromatin organization	biological_process	involved in	manually curated
+YBR258C	SHG1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR258C	SHG1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR275C	RIF1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YBR278W	DPB3	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YBR278W	DPB3	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YBR278W	DPB3	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YBR278W	DPB3	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:2001166	regulation of histone H2B ubiquitination	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:2001173	regulation of histone H2B conserved C-terminal lysine ubiquitination	biological_process	involved in	manually curated
+YBR279W	PAF1	ORF	Verified	GO:2001255	positive regulation of histone H3-K36 trimethylation	biological_process	involved in	manually curated
+YBR289W	SNF5	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YBR289W	SNF5	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YBR289W	SNF5	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YCL010C	SGF29	ORF	Verified	GO:0043970	histone H3-K9 acetylation	biological_process	involved in	manually curated
+YCL010C	SGF29	ORF	Verified	GO:0043971	histone H3-K18 acetylation	biological_process	involved in	manually curated
+YCL010C	SGF29	ORF	Verified	GO:0044154	histone H3-K14 acetylation	biological_process	involved in	manually curated
+YCL010C	SGF29	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YCL061C	MRC1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YCL061C	MRC1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YCR033W	SNT1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YCR052W	RSC6	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YCR052W	RSC6	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YCR082W	AHC2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YCR082W	AHC2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YCR082W	AHC2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YCR082W	AHC2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YCR082W	AHC2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YCR084C	TUP1	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YCR084C	TUP1	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YEL032W	MCM3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YEL032W	MCM3	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YEL044W	IES6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YEL056W	HAT2	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YEL056W	HAT2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YEL056W	HAT2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YEL056W	HAT2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YEL056W	HAT2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YEL056W	HAT2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YER030W	CHZ1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YER030W	CHZ1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YER030W	CHZ1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YER030W	CHZ1	ORF	Verified	GO:1905473	positive regulation of histone H3-K79 dimethylation	biological_process	involved in	manually curated
+YER030W	CHZ1	ORF	Verified	GO:2001168	positive regulation of histone H2B ubiquitination	biological_process	involved in	manually curated
+YER051W	JHD1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER051W	JHD1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER088C	DOT6	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YER088C	DOT6	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YER088C	DOT6	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YER120W	SCS2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YER120W	SCS2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YER120W	SCS2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YER120W	SCS2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YER125W	RSP5	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YER133W	GLC7	ORF	Verified	GO:0016576	histone dephosphorylation	biological_process	involved in	manually curated
+YER133W	GLC7	ORF	Verified	GO:0016576	histone dephosphorylation	biological_process	involved in	manually curated
+YER133W	GLC7	ORF	Verified	GO:0016576	histone dephosphorylation	biological_process	involved in	manually curated
+YER133W	GLC7	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YER161C	SPT2	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YER161C	SPT2	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0034728	nucleosome organization	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0071441	negative regulation of histone H3-K14 acetylation	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:0071894	histone H2B conserved C-terminal lysine ubiquitination	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:1900050	negative regulation of histone exchange	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:1902275	regulation of chromatin organization	biological_process	involved in	manually curated
+YER164W	CHD1	ORF	Verified	GO:2000616	negative regulation of histone H3-K9 acetylation	biological_process	involved in	manually curated
+YER169W	RPH1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER169W	RPH1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER169W	RPH1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER169W	RPH1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER169W	RPH1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER169W	RPH1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YER174C	GRX4	ORF	Verified	GO:0031065	positive regulation of histone deacetylation	biological_process	involved in	manually curated
+YHL007C	STE20	ORF	Verified	GO:0035404	histone-serine phosphorylation	biological_process	involved in	manually curated
+YHL025W	SNF6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YHL025W	SNF6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YHL025W	SNF6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YHR013C	ARD1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YHR056C	RSC30	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YHR061C	GIC1	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YHR090C	YNG2	ORF	Verified	GO:0016569	covalent chromatin modification	biological_process	involved in	manually curated
+YHR090C	YNG2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YHR099W	TRA1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YHR118C	ORC6	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YHR119W	SET1	ORF	Verified	GO:1902275	regulation of chromatin organization	biological_process	involved in	manually curated
+YHR207C	SET5	ORF	Verified	GO:0034968	histone lysine methylation	biological_process	involved in	manually curated
+YHR207C	SET5	ORF	Verified	GO:0034968	histone lysine methylation	biological_process	involved in	manually curated
+YIL063C	YRB2	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YIL084C	SDS3	ORF	Verified	GO:0006342	chromatin silencing	biological_process	involved in	manually curated
+YIL084C	SDS3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YIL084C	SDS3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YIL084C	SDS3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YIL084C	SDS3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YIL084C	SDS3	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIL084C	SDS3	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YIL101C	XBP1	ORF	Verified	GO:0031065	positive regulation of histone deacetylation	biological_process	involved in	manually curated
+YIL112W	HOS4	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YIL126W	STH1	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YIL126W	STH1	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YIL126W	STH1	ORF	Verified	GO:0031055	chromatin remodeling at centromere	biological_process	involved in	manually curated
+YIL126W	STH1	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YIL126W	STH1	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YIL131C	FKH1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YIL131C	FKH1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YIL131C	FKH1	ORF	Verified	GO:0090055	positive regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIL131C	FKH1	ORF	Verified	GO:0090055	positive regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIL131C	FKH1	ORF	Verified	GO:0090055	positive regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIL131C	FKH1	ORF	Verified	GO:0090055	positive regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIL150C	MCM10	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YIL150C	MCM10	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIL150C	MCM10	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIR018W	YAP5	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YIR033W	MGA2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YIR033W	MGA2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YKL018W	SWD2	ORF	Verified	GO:0034729	histone H3-K79 methylation	biological_process	involved in	manually curated
+YKL018W	SWD2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YKL018W	SWD2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YKL018W	SWD2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YKL020C	SPT23	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YKL057C	NUP120	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YKL062W	MSN4	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YKL112W	ABF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YKL112W	ABF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YKL112W	ABF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YKL112W	ABF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YKL112W	ABF1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YKL112W	ABF1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YKL160W	ELF1	ORF	Verified	GO:0048096	chromatin-mediated maintenance of transcription	biological_process	involved in	manually curated
+YKR008W	RSC4	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YKR008W	RSC4	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YKR010C	TOF2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YKR017C	HEL1	ORF	Verified	GO:0016574	histone ubiquitination	biological_process	involved in	manually curated
+YKR019C	IRS4	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YKR029C	SET3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YKR048C	NAP1	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YKR048C	NAP1	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YKR048C	NAP1	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YKR082W	NUP133	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YKR082W	NUP133	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YKR095W	MLP1	ORF	Verified	GO:0090203	transcriptional activation by promoter-terminator looping	biological_process	involved in	manually curated
+YKR101W	SIR1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YKR101W	SIR1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YKR101W	SIR1	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YFL039C	ACT1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YFL024C	EPL1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YFL013C	IES1	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YFR013W	IOC3	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YFR034C	PHO4	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YFR036W	CDC26	ORF	Verified	GO:0031497	chromatin assembly	biological_process	involved in	manually curated
+YFR037C	RSC8	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YBR089C-A	NHP6B	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YBR089C-A	NHP6B	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDL002C	NHP10	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YDL014W	NOP1	ORF	Verified	GO:1990258	histone glutamine methylation	biological_process	involved in	manually curated
+YDL014W	NOP1	ORF	Verified	GO:1990258	histone glutamine methylation	biological_process	involved in	manually curated
+YDL017W	CDC7	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDL042C	SIR2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDL070W	BDF2	ORF	Verified	GO:0031452	negative regulation of heterochromatin assembly	biological_process	involved in	manually curated
+YDL070W	BDF2	ORF	Verified	GO:0031452	negative regulation of heterochromatin assembly	biological_process	involved in	manually curated
+YDL074C	BRE1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDL074C	BRE1	ORF	Verified	GO:0010390	histone monoubiquitination	biological_process	involved in	manually curated
+YDL074C	BRE1	ORF	Verified	GO:0010390	histone monoubiquitination	biological_process	involved in	manually curated
+YDL074C	BRE1	ORF	Verified	GO:0016574	histone ubiquitination	biological_process	involved in	manually curated
+YDL084W	SUB2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDL091C	UBX3	ORF	Verified	GO:0033523	histone H2B ubiquitination	biological_process	involved in	manually curated
+YDL106C	PHO2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDL116W	NUP84	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDL116W	NUP84	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YDL126C	CDC48	ORF	Verified	GO:2001168	positive regulation of histone H2B ubiquitination	biological_process	involved in	manually curated
+YDL182W	LYS20	ORF	Verified	GO:0001207	histone displacement	biological_process	involved in	manually curated
+YDL197C	ASF2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR005C	MAF1	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YDR026C	NSI1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YDR028C	REG1	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YDR071C	PAA1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR096W	GIS1	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YDR098C	GRX3	ORF	Verified	GO:0031065	positive regulation of histone deacetylation	biological_process	involved in	manually curated
+YDR110W	FOB1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YDR110W	FOB1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YDR110W	FOB1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR110W	FOB1	ORF	Verified	GO:0007580	extrachromosomal circular DNA accumulation involved in cell aging	biological_process	involved in	manually curated
+YDR121W	DPB4	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YDR121W	DPB4	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YDR121W	DPB4	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YDR121W	DPB4	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YDR121W	DPB4	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YDR121W	DPB4	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YDR145W	TAF12	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR145W	TAF12	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR145W	TAF12	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YDR155C	CPR1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YDR167W	TAF10	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR167W	TAF10	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YDR174W	HMO1	ORF	Verified	GO:0090202	gene looping	biological_process	involved in	manually curated
+YDR176W	NGG1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR176W	NGG1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YDR181C	SAS4	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR190C	RVB1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR190C	RVB1	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YDR191W	HST4	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR191W	HST4	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YDR207C	UME6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR216W	ADR1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR216W	ADR1	ORF	Verified	GO:0031936	negative regulation of chromatin silencing	biological_process	involved in	manually curated
+YDR224C	HTB1	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YDR224C	HTB1	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YDR225W	HTA1	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YDR225W	HTA1	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0031453	positive regulation of heterochromatin assembly	biological_process	involved in	manually curated
+YDR227W	SIR4	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YDR266C	HEL2	ORF	Verified	GO:0016574	histone ubiquitination	biological_process	involved in	manually curated
+YDR295C	HDA2	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YDR295C	HDA2	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YDR303C	RSC3	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YDR303C	RSC3	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YDR303C	RSC3	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YDR310C	SUM1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR310C	SUM1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR334W	SWR1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR334W	SWR1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR334W	SWR1	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YDR363W	ESC2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YDR392W	SPT3	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR392W	SPT3	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YDR439W	LRS4	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YDR440W	DOT1	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YDR440W	DOT1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR440W	DOT1	ORF	Verified	GO:0031452	negative regulation of heterochromatin assembly	biological_process	involved in	manually curated
+YDR440W	DOT1	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YDR440W	DOT1	ORF	Verified	GO:0034729	histone H3-K79 methylation	biological_process	involved in	manually curated
+YDR440W	DOT1	ORF	Verified	GO:0034729	histone H3-K79 methylation	biological_process	involved in	manually curated
+YDR440W	DOT1	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YDR448W	ADA2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YDR448W	ADA2	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YDR448W	ADA2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR448W	ADA2	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YDR469W	SDC1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YDR485C	VPS72	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR485C	VPS72	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR485C	VPS72	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR485C	VPS72	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YDR485C	VPS72	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YGL037C	PNC1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YGL037C	PNC1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YGL048C	RPT6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGL058W	RAD6	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YGL058W	RAD6	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YGL058W	RAD6	ORF	Verified	GO:0010390	histone monoubiquitination	biological_process	involved in	manually curated
+YGL058W	RAD6	ORF	Verified	GO:0010390	histone monoubiquitination	biological_process	involved in	manually curated
+YGL066W	SGF73	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YGL066W	SGF73	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YGL066W	SGF73	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGL066W	SGF73	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YGL066W	SGF73	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YGL092W	NUP145	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YGL112C	TAF6	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YGL112C	TAF6	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGL131C	SNT2	ORF	Verified	GO:0016574	histone ubiquitination	biological_process	involved in	manually curated
+YGL133W	ITC1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YGL150C	INO80	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGL150C	INO80	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGL150C	INO80	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YGL150C	INO80	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YGL150C	INO80	ORF	Verified	GO:0035065	regulation of histone acetylation	biological_process	involved in	manually curated
+YGL150C	INO80	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YGL150C	INO80	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YGL151W	NUT1	ORF	Verified	GO:0043966	histone H3 acetylation	biological_process	involved in	manually curated
+YGL163C	RAD54	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGL194C	HOS2	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YGL207W	SPT16	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YGL207W	SPT16	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YGL207W	SPT16	ORF	Verified	GO:0034724	DNA replication-independent nucleosome organization	biological_process	involved in	manually curated
+YGL240W	DOC1	ORF	Verified	GO:0031497	chromatin assembly	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:2001160	regulation of histone H3-K79 methylation	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:2001166	regulation of histone H2B ubiquitination	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:2001166	regulation of histone H2B ubiquitination	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:2001173	regulation of histone H2B conserved C-terminal lysine ubiquitination	biological_process	involved in	manually curated
+YGL244W	RTF1	ORF	Verified	GO:2001173	regulation of histone H2B conserved C-terminal lysine ubiquitination	biological_process	involved in	manually curated
+YGR002C	SWC4	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGR002C	SWC4	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGR002C	SWC4	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YGR056W	RSC1	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YGR056W	RSC1	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YGR056W	RSC1	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YGR063C	SPT4	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YGR063C	SPT4	ORF	Verified	GO:0006342	chromatin silencing	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0000414	regulation of histone H3-K36 methylation	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0000414	regulation of histone H3-K36 methylation	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0034728	nucleosome organization	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YGR116W	SPT6	ORF	Verified	GO:0070827	chromatin maintenance	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGR252W	GCN5	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YGR270W	YTA7	ORF	Verified	GO:0031936	negative regulation of chromatin silencing	biological_process	involved in	manually curated
+YGR270W	YTA7	ORF	Verified	GO:0031936	negative regulation of chromatin silencing	biological_process	involved in	manually curated
+YGR270W	YTA7	ORF	Verified	GO:0031936	negative regulation of chromatin silencing	biological_process	involved in	manually curated
+YGR275W	RTT102	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YGR275W	RTT102	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YJL019W	MPS3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL065C	DLS1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL076W	NET1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YJL080C	SCP160	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL080C	SCP160	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL080C	SCP160	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL080C	SCP160	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL080C	SCP160	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL080C	SCP160	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YJL081C	ARP4	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YJL081C	ARP4	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YJL081C	ARP4	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0001207	histone displacement	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0006335	DNA replication-dependent nucleosome assembly	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0033523	histone H2B ubiquitination	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL115W	ASF1	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YJL127C	SPT10	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YJL127C	SPT10	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YJL127C	SPT10	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YJL127C	SPT10	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YJL127C	SPT10	ORF	Verified	GO:0097043	histone H3-K56 acetylation	biological_process	involved in	manually curated
+YJL168C	SET2	ORF	Verified	GO:0016571	histone methylation	biological_process	involved in	manually curated
+YJL168C	SET2	ORF	Verified	GO:0016571	histone methylation	biological_process	involved in	manually curated
+YJL168C	SET2	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YJL168C	SET2	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YJL168C	SET2	ORF	Verified	GO:0071441	negative regulation of histone H3-K14 acetylation	biological_process	involved in	manually curated
+YJL168C	SET2	ORF	Verified	GO:1900049	regulation of histone exchange	biological_process	involved in	manually curated
+YJL168C	SET2	ORF	Verified	GO:2000616	negative regulation of histone H3-K9 acetylation	biological_process	involved in	manually curated
+YJL176C	SWI3	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YJL194W	CDC6	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YJR017C	ESS1	ORF	Verified	GO:0031064	negative regulation of histone deacetylation	biological_process	involved in	manually curated
+YJR017C	ESS1	ORF	Verified	GO:0031064	negative regulation of histone deacetylation	biological_process	involved in	manually curated
+YJR017C	ESS1	ORF	Verified	GO:0031064	negative regulation of histone deacetylation	biological_process	involved in	manually curated
+YJR017C	ESS1	ORF	Verified	GO:0080182	histone H3-K4 trimethylation	biological_process	involved in	manually curated
+YJR017C	ESS1	ORF	Verified	GO:0080182	histone H3-K4 trimethylation	biological_process	involved in	manually curated
+YJR017C	ESS1	ORF	Verified	GO:2000749	positive regulation of rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YJR035W	RAD26	ORF	Verified	GO:0001208	histone H2A-H2B dimer displacement	biological_process	involved in	manually curated
+YJR060W	CBF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YJR060W	CBF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YJR060W	CBF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YJR060W	CBF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YJR082C	EAF6	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:0016577	histone demethylation	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:0034720	histone H3-K4 demethylation	biological_process	involved in	manually curated
+YJR119C	JHD2	ORF	Verified	GO:1902275	regulation of chromatin organization	biological_process	involved in	manually curated
+YJR140C	HIR3	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YJR140C	HIR3	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YJR140C	HIR3	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL002W	RTT109	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL004W	ORC3	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YLL022C	HIF1	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YLL022C	HIF1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLL022C	HIF1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLL022C	HIF1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLL022C	HIF1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLL022C	HIF1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLL022C	HIF1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0080182	histone H3-K4 trimethylation	biological_process	involved in	manually curated
+YLR015W	BRE2	ORF	Verified	GO:0080182	histone H3-K4 trimethylation	biological_process	involved in	manually curated
+YLR033W	RSC58	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YLR033W	RSC58	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YLR052W	IES3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR052W	IES3	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YLR055C	SPT8	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YLR055C	SPT8	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLR085C	ARP6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YLR085C	ARP6	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YLR085C	ARP6	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YLR095C	IOC2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YLR102C	APC9	ORF	Verified	GO:0031497	chromatin assembly	biological_process	involved in	manually curated
+YLR103C	CDC45	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR113W	HOG1	ORF	Verified	GO:0043966	histone H3 acetylation	biological_process	involved in	manually curated
+YLR141W	RRN5	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YLR153C	ACS2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YLR223C	IFH1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR226W	BUR2	ORF	Verified	GO:0033184	positive regulation of histone ubiquitination	biological_process	involved in	manually curated
+YLR226W	BUR2	ORF	Verified	GO:0051571	positive regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YLR272C	YCS4	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YLR274W	MCM5	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR274W	MCM5	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YLR274W	MCM5	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR285W	NNT1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YLR288C	MEC3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR293C	GSP1	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR319C	BUD6	ORF	Verified	GO:0034652	extrachromosomal circular DNA localization involved in cell aging	biological_process	involved in	manually curated
+YLR321C	SFH1	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YLR321C	SFH1	ORF	Verified	GO:0031055	chromatin remodeling at centromere	biological_process	involved in	manually curated
+YLR335W	NUP2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YLR335W	NUP2	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YLR357W	RSC2	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YLR357W	RSC2	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YLR362W	STE11	ORF	Verified	GO:0035405	histone-threonine phosphorylation	biological_process	involved in	manually curated
+YLR385C	SWC7	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YLR399C	BDF1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YLR399C	BDF1	ORF	Verified	GO:0031452	negative regulation of heterochromatin assembly	biological_process	involved in	manually curated
+YLR399C	BDF1	ORF	Verified	GO:0031452	negative regulation of heterochromatin assembly	biological_process	involved in	manually curated
+YLR399C	BDF1	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR399C	BDF1	ORF	Verified	GO:0090054	regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YLR399C	BDF1	ORF	Verified	GO:1900051	positive regulation of histone exchange	biological_process	involved in	manually curated
+YLR418C	CDC73	ORF	Verified	GO:2001173	regulation of histone H2B conserved C-terminal lysine ubiquitination	biological_process	involved in	manually curated
+YLR418C	CDC73	ORF	Verified	GO:2001255	positive regulation of histone H3-K36 trimethylation	biological_process	involved in	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YLR442C	SIR3	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YLR449W	FPR4	ORF	Verified	GO:0000412	histone peptidyl-prolyl isomerization	biological_process	involved in	manually curated
+YLR449W	FPR4	ORF	Verified	GO:0000415	negative regulation of histone H3-K36 methylation	biological_process	involved in	manually curated
+YLR449W	FPR4	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YLR449W	FPR4	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YML041C	VPS71	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YML041C	VPS71	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YML041C	VPS71	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YML065W	ORC1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YML065W	ORC1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YML065W	ORC1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YML069W	POB3	ORF	Verified	GO:0034724	DNA replication-independent nucleosome organization	biological_process	involved in	manually curated
+YML069W	POB3	ORF	Verified	GO:0034724	DNA replication-independent nucleosome organization	biological_process	involved in	manually curated
+YML074C	FPR3	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YML102W	CAC2	ORF	Verified	GO:0006335	DNA replication-dependent nucleosome assembly	biological_process	involved in	manually curated
+YML102W	CAC2	ORF	Verified	GO:0006335	DNA replication-dependent nucleosome assembly	biological_process	involved in	manually curated
+YML109W	ZDS2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YML121W	GTR1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YML127W	RSC9	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YML127W	RSC9	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YML127W	RSC9	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YMR022W	UBC7	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YMR033W	ARP9	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YMR033W	ARP9	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YMR033W	ARP9	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YMR033W	ARP9	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YMR037C	MSN2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YMR044W	IOC4	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YMR069W	NAT4	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YMR069W	NAT4	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YMR069W	NAT4	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YMR075W	RCO1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YMR075W	RCO1	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YMR080C	NAM7	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YMR091C	NPL6	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YMR091C	NPL6	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YMR106C	YKU80	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YMR106C	YKU80	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR127C	SAS2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR127C	SAS2	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YMR127C	SAS2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YMR127C	SAS2	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YMR127C	SAS2	ORF	Verified	GO:0043966	histone H3 acetylation	biological_process	involved in	manually curated
+YMR179W	SPT21	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YMR179W	SPT21	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR179W	SPT21	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YMR219W	ESC1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR223W	UBP8	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YMR223W	UBP8	ORF	Verified	GO:0034729	histone H3-K79 methylation	biological_process	involved in	manually curated
+YMR223W	UBP8	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YMR231W	PEP5	ORF	Verified	GO:0016574	histone ubiquitination	biological_process	involved in	manually curated
+YMR235C	RNA1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR236W	TAF9	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YMR236W	TAF9	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YMR239C	RNT1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YMR247C	RKR1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YMR247C	RKR1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YMR247C	RKR1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YMR247C	RKR1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YMR247C	RKR1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR263W	SAP30	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR263W	SAP30	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR263W	SAP30	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YMR263W	SAP30	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YMR263W	SAP30	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YMR263W	SAP30	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YMR263W	SAP30	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YMR273C	ZDS1	ORF	Verified	GO:0006342	chromatin silencing	biological_process	involved in	manually curated
+YMR284W	YKU70	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YMR284W	YKU70	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YMR284W	YKU70	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YMR284W	YKU70	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YMR284W	YKU70	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YMR307W	GAS1	ORF	Verified	GO:0006342	chromatin silencing	biological_process	involved in	manually curated
+YMR307W	GAS1	ORF	Verified	GO:0006342	chromatin silencing	biological_process	involved in	manually curated
+YNL021W	HDA1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YNL021W	HDA1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YNL021W	HDA1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YNL021W	HDA1	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL030W	HHF2	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YNL030W	HHF2	ORF	Verified	GO:0034729	histone H3-K79 methylation	biological_process	involved in	manually curated
+YNL030W	HHF2	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YNL031C	HHT2	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YNL059C	ARP5	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YNL059C	ARP5	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YNL059C	ARP5	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YNL068C	FKH2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YNL068C	FKH2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YNL068C	FKH2	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL068C	FKH2	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL088W	TOP2	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YNL088W	TOP2	ORF	Verified	GO:0031055	chromatin remodeling at centromere	biological_process	involved in	manually curated
+YNL088W	TOP2	ORF	Verified	GO:0090202	gene looping	biological_process	involved in	manually curated
+YNL097C	PHO23	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YNL097C	PHO23	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL097C	PHO23	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL097C	PHO23	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL097C	PHO23	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL097C	PHO23	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YNL107W	YAF9	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YNL107W	YAF9	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL107W	YAF9	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YNL135C	FPR1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YNL186W	UBP10	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL186W	UBP10	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YNL186W	UBP10	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YNL206C	RTT106	ORF	Verified	GO:0006335	DNA replication-dependent nucleosome assembly	biological_process	involved in	manually curated
+YNL206C	RTT106	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YNL206C	RTT106	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YNL206C	RTT106	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YNL206C	RTT106	ORF	Verified	GO:0031507	heterochromatin assembly	biological_process	involved in	manually curated
+YNL216W	RAP1	ORF	Verified	GO:0001207	histone displacement	biological_process	involved in	manually curated
+YNL216W	RAP1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL216W	RAP1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL216W	RAP1	ORF	Verified	GO:0031509	subtelomeric heterochromatin assembly	biological_process	involved in	manually curated
+YNL216W	RAP1	ORF	Verified	GO:0031936	negative regulation of chromatin silencing	biological_process	involved in	manually curated
+YNL246W	VPS75	ORF	Verified	GO:0006334	nucleosome assembly	biological_process	involved in	manually curated
+YNL246W	VPS75	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YNL246W	VPS75	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YNL246W	VPS75	ORF	Verified	GO:0035066	positive regulation of histone acetylation	biological_process	involved in	manually curated
+YNL261W	ORC5	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL261W	ORC5	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL262W	POL2	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YNL262W	POL2	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YNL262W	POL2	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YNL298W	CLA4	ORF	Verified	GO:0035404	histone-serine phosphorylation	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0070932	histone H3 deacetylation	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0070933	histone H4 deacetylation	biological_process	involved in	manually curated
+YNL330C	RPD3	ORF	Verified	GO:0070933	histone H4 deacetylation	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YOL004W	SIN3	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YOL006C	TOP1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YOL006C	TOP1	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YOL012C	HTZ1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOL012C	HTZ1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOL017W	ESC8	ORF	Verified	GO:0006342	chromatin silencing	biological_process	involved in	manually curated
+YOL068C	HST1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YOL068C	HST1	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YOL068C	HST1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOL068C	HST1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOL068C	HST1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOL068C	HST1	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOL090W	MSH2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOL145C	CTR9	ORF	Verified	GO:0031938	regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YOL145C	CTR9	ORF	Verified	GO:0051569	regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YOL145C	CTR9	ORF	Verified	GO:2001173	regulation of histone H2B conserved C-terminal lysine ubiquitination	biological_process	involved in	manually curated
+YOL145C	CTR9	ORF	Verified	GO:2001255	positive regulation of histone H3-K36 trimethylation	biological_process	involved in	manually curated
+YOL148C	SPT20	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YOL148C	SPT20	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YOR023C	AHC1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YOR025W	HST3	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR025W	HST3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YOR025W	HST3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YOR038C	HIR2	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YOR038C	HIR2	ORF	Verified	GO:0006336	DNA replication-independent nucleosome assembly	biological_process	involved in	manually curated
+YOR064C	YNG1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YOR064C	YNG1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YOR080W	DIA2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR080W	DIA2	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOR123C	LEO1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YOR123C	LEO1	ORF	Verified	GO:0080182	histone H3-K4 trimethylation	biological_process	involved in	manually curated
+YOR123C	LEO1	ORF	Verified	GO:2001173	regulation of histone H2B conserved C-terminal lysine ubiquitination	biological_process	involved in	manually curated
+YOR141C	ARP8	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOR191W	ULS1	ORF	Verified	GO:0006333	chromatin assembly or disassembly	biological_process	involved in	manually curated
+YOR209C	NPT1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YOR209C	NPT1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR213C	SAS5	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR229W	WTM2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR229W	WTM2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR229W	WTM2	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOR229W	WTM2	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOR230W	WTM1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR230W	WTM1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR230W	WTM1	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOR230W	WTM1	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YOR244W	ESA1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YOR244W	ESA1	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YOR244W	ESA1	ORF	Verified	GO:0001207	histone displacement	biological_process	involved in	manually curated
+YOR244W	ESA1	ORF	Verified	GO:0001207	histone displacement	biological_process	involved in	manually curated
+YOR244W	ESA1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YOR244W	ESA1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YOR249C	APC5	ORF	Verified	GO:0031497	chromatin assembly	biological_process	involved in	manually curated
+YOR250C	CLP1	ORF	Verified	GO:0090202	gene looping	biological_process	involved in	manually curated
+YOR274W	MOD5	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YOR290C	SNF2	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YOR295W	UAF30	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YOR304W	ISW2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YOR304W	ISW2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOR304W	ISW2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOR304W	ISW2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YOR304W	ISW2	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YOR304W	ISW2	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YOR304W	ISW2	ORF	Verified	GO:0016584	nucleosome positioning	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPL001W	HAT1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPL015C	HST2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YPL015C	HST2	ORF	Verified	GO:0000183	rDNA heterochromatin assembly	biological_process	involved in	manually curated
+YPL015C	HST2	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL016W	SWI1	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YPL047W	SGF11	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YPL047W	SGF11	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YPL055C	LGE1	ORF	Verified	GO:0016571	histone methylation	biological_process	involved in	manually curated
+YPL055C	LGE1	ORF	Verified	GO:0016574	histone ubiquitination	biological_process	involved in	manually curated
+YPL075W	GCR1	ORF	Verified	GO:0034728	nucleosome organization	biological_process	involved in	manually curated
+YPL116W	HOS3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YPL127C	HHO1	ORF	Verified	GO:0031936	negative regulation of chromatin silencing	biological_process	involved in	manually curated
+YPL128C	TBF1	ORF	Verified	GO:0031936	negative regulation of chromatin silencing	biological_process	involved in	manually curated
+YPL129W	TAF14	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL129W	TAF14	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL129W	TAF14	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPL129W	TAF14	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YPL138C	SPP1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL138C	SPP1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL138C	SPP1	ORF	Verified	GO:0006348	chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL138C	SPP1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YPL138C	SPP1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YPL138C	SPP1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YPL138C	SPP1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
+YPL139C	UME1	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL181W	CTI6	ORF	Verified	GO:0031939	negative regulation of chromatin silencing at telomere	biological_process	involved in	manually curated
+YPL181W	CTI6	ORF	Verified	GO:0061186	negative regulation of silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YPL181W	CTI6	ORF	Verified	GO:0061188	negative regulation of ribosomal DNA heterochromatin assembly	biological_process	involved in	manually curated
+YPL184C	MRN1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL184C	MRN1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL184C	MRN1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL184C	MRN1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL184C	MRN1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL184C	MRN1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL235W	RVB2	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPL235W	RVB2	ORF	Verified	GO:0043486	histone exchange	biological_process	involved in	manually curated
+YPL254W	HFI1	ORF	Verified	GO:0006325	chromatin organization	biological_process	involved in	manually curated
+YPL254W	HFI1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPR018W	RLF2	ORF	Verified	GO:0006335	DNA replication-dependent nucleosome assembly	biological_process	involved in	manually curated
+YPR018W	RLF2	ORF	Verified	GO:0006335	DNA replication-dependent nucleosome assembly	biological_process	involved in	manually curated
+YPR023C	EAF3	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPR023C	EAF3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YPR031W	NTO1	ORF	Verified	GO:0016573	histone acetylation	biological_process	involved in	manually curated
+YPR034W	ARP7	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YPR034W	ARP7	ORF	Verified	GO:0042766	nucleosome mobilization	biological_process	involved in	manually curated
+YPR034W	ARP7	ORF	Verified	GO:0043044	ATP-dependent chromatin remodeling	biological_process	involved in	manually curated
+YPR052C	NHP6A	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPR052C	NHP6A	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YPR052C	NHP6A	ORF	Verified	GO:0034724	DNA replication-independent nucleosome organization	biological_process	involved in	manually curated
+YPR068C	HOS1	ORF	Verified	GO:0061587	transfer RNA gene-mediated silencing	biological_process	involved in	manually curated
+YPR068C	HOS1	ORF	Verified	GO:0070933	histone H4 deacetylation	biological_process	involved in	manually curated
+YPR086W	SUA7	ORF	Verified	GO:0090202	gene looping	biological_process	involved in	manually curated
+YPR133C	SPN1	ORF	Verified	GO:0060303	regulation of nucleosome density	biological_process	involved in	manually curated
+YPR133C	SPN1	ORF	Verified	GO:0070827	chromatin maintenance	biological_process	involved in	manually curated
+YPR161C	SGV1	ORF	Verified	GO:0051571	positive regulation of histone H3-K4 methylation	biological_process	involved in	manually curated
+YPR162C	ORC4	ORF	Verified	GO:0030466	silent mating-type cassette heterochromatin assembly	biological_process	involved in	manually curated
+YPR175W	DPB2	ORF	Verified	GO:0070868	heterochromatin organization involved in chromatin silencing	biological_process	involved in	manually curated
+YPR179C	HDA3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YPR179C	HDA3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YPR179C	HDA3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YPR179C	HDA3	ORF	Verified	GO:0016575	histone deacetylation	biological_process	involved in	manually curated
+YCR020W-B	HTL1	ORF	Verified	GO:0006337	nucleosome disassembly	biological_process	involved in	manually curated
+YCR020W-B	HTL1	ORF	Verified	GO:0006338	chromatin remodeling	biological_process	involved in	manually curated
+YDR363W-A	SEM1	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YBR111W-A	SUS1	ORF	Verified	GO:0016578	histone deubiquitination	biological_process	involved in	manually curated
+YBR111W-A	SUS1	ORF	Verified	GO:0034729	histone H3-K79 methylation	biological_process	involved in	manually curated
+YBR111W-A	SUS1	ORF	Verified	GO:0051568	histone H3-K4 methylation	biological_process	involved in	manually curated
