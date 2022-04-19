@@ -27,7 +27,7 @@ def get_alphafold_fp(uniprot_id, path_to_af_data):
     data, and return the full filepath to pdb file that predicts the structure of this orf.
     If multiple files are present only the first will be returned.
     """
-    fpath = path_to_af_data + 'AF-' + str(uniprot_id) + '-F1-model_v1.pdb'
+    fpath = path_to_af_data + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
 
     return(fpath)
 
