@@ -21,13 +21,15 @@ for a in string.ascii_uppercase:
         aas.append(a)
 
 
-def get_alphafold_fp(uniprot_id, path_to_af_data):
+def get_alphafold_fp(uniprot_id, path_to_af_data, version='1'):
     """
     Given a uniprot reference number, search a directory (path_to_af_data) with the alphafold
     data, and return the full filepath to pdb file that predicts the structure of this orf.
     If multiple files are present only the first will be returned.
+    Specify the version in the alphafold path with 'version'; the default value is 1.
     """
-    fpath = path_to_af_data + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
+    version = str(version)
+    fpath = path_to_af_data + 'AF-' + str(uniprot_id) + '-F1-model_v{}.pdb'.format(version)
 
     return(fpath)
 
@@ -151,6 +153,9 @@ def read_af_output(fdir, uniprot_id):
 
 
 def get_percent_helix(fdir, uniprot_id, left_bound, right_bound):
+    """
+    DEPRICATED: not the classifier used in the final paper
+    """
     af_pdb = read_af_output(fdir, uniprot_id)
     if not af_pdb is None:
         ss = md.compute_dssp(af_pdb, simplified=True)[0]
