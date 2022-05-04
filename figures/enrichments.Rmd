@@ -111,6 +111,6 @@ ggplot(some.components.all.orfs, aes(x = GO_name.f, fill = hit)) +
   theme(axis.title.x = element_blank(),
         axis.text.x = element_text(angle = 60, hjust = 1, vjust = 1, size=8))
 
-ggsave("../figures/S1-enrichments.pdf", width = 5, height = 3, units = "in")
+ggsave("../figures/S1-enrichments.png", width = 5, height = 3, units = "in")
 ```
 
