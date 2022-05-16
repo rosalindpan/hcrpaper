@@ -59,6 +59,7 @@ charged.hits <- read.csv("../data/charged_regions/cr_raw.csv", comment.char = "#
      per.neg = 1 - per.pos,
      tot.pos = (n.K + n.R) / region.len,
      tot.neg = (n.E + n.D) / region.len,
+     net.charge = ((n.K + n.R) - (n.E + n.D)) / region.len,
      gene = ifelse(gene == "MDN1", "REA1", gene)) # Correct old gene name
 ```
 
@@ -111,6 +112,15 @@ ggplot(some.components.all.orfs, aes(x = GO_name.f, fill = hit)) +
   theme(axis.title.x = element_blank(),
         axis.text.x = element_text(angle = 60, hjust = 1, vjust = 1, size=8))
 
-ggsave("../figures/S1-enrichments.png", width = 5, height = 3, units = "in")
+#ggsave("../figures/S1-enrichments.png", width = 5, height = 3, units = "in")
 ```
 
+
+```{r}
+# GO terms of proteins with highly acidic regions
+
+x = filter(allslims.allORFs, GO_name %!in% c("biological_process", "molecular_function")) %>% # remove generic GOs
+  filter(orf %in% filter(charged.hits, net.charge < -0.5 & frac.charge > 0.6)$orf)
+```
+
+`r knitr::kable(x)``
