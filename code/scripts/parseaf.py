@@ -93,7 +93,7 @@ def read_af_output(fdir, uniprot_id):
     output:
     mdtraj pdb file
     '''
-    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v1.pdb'
+    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
     if path.exists(fpath):
         pdb = md.load(fpath)
     else:
