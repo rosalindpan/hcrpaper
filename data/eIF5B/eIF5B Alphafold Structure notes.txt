@@ -1,0 +1,14 @@
+eIF5B Alphafold Structure notes
+
+
+
+#1:169-257 	(AF-P39730 S. cerevisiae) 	#7
+#2:250-338 	(AF-Q54XP6 D. discoideum)	#8
+#3:20-91 	(AF-Q54XP6 T. cruzi)		#9
+#4:246-324	(AF-Q10251 S. pombe)		#10
+#11:342-420	(AF-Q0DFG2 O. sativa)		#5
+#6:382-462	(AF-F1QB47 D. rerio)		#12
+#13:338-428	(AF-O60841 H. sapians)		#14
+#15:14-33 (207-226)
+
+1230-1380
