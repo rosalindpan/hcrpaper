@@ -91,6 +91,27 @@ def identify_charged_regions(f_charges, threshold, tolerance=0):
             total_diffs = 0
     return list_of_regions
 
+def trim_regions(fullseq, regions):
+    charged = ['K', 'R', 'D', 'E']
+    trimmed_regions = []
+    for region in regions:
+        seq = range_to_seq(fullseq, region)
+        n_uncharged_start = 0
+        n_uncharged_end = 0
+        for AA in seq:
+            if AA not in charged:
+                n_uncharged_start += 1
+            else:
+                break
+        for AA in seq[::-1]:
+            if AA not in charged:
+                n_uncharged_end += 1
+            else:
+                break
+        new_region = region[n_uncharged_start:(len(region) - n_uncharged_end)]
+        trimmed_regions.append(new_region)
+    return trimmed_regions
+
 
 def select_min_length(regions, min_length):
     new_list = []
@@ -100,12 +121,15 @@ def select_min_length(regions, min_length):
     return new_list
 
 
-def find_charged_regions(sequence, window_size, charge_threshold, min_length, tolerance):
+def find_charged_regions(sequence, window_size, charge_threshold, min_length, tolerance,
+                         trim=True):
     #print(mappings)
     gapless_seq = util.remove_gaps(sequence)
     f_charges = rolling_fractional_charges_weighted(gapless_seq, window_size)
     #print(f_charges)
     charged_regions = identify_charged_regions(f_charges, charge_threshold, tolerance=tolerance)
+    if trim:
+        charged_regions = trim_regions(sequence, charged_regions)
     long_charged_regions = select_min_length(charged_regions, min_length)
     return long_charged_regions
 
