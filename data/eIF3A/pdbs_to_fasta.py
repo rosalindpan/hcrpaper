@@ -63,7 +63,7 @@ def read_seq_from_pdb(filepath):
 
 def find_species_name(filepath):
     """
-    Parse a line of a pdb file and look for a species name in the header
+    Parse a pdb file and look for a species name in the header
     """
     search_string = re.compile("ORGANISM_SCIENTIFIC: (.*)")
     if is_gz_file(filepath):
