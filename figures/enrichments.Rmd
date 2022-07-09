@@ -120,7 +120,9 @@ ggplot(some.components.all.orfs, aes(x = GO_name.f, fill = hit)) +
 # GO terms of proteins with highly acidic regions
 
 x = filter(allslims.allORFs, GO_name %!in% c("biological_process", "molecular_function")) %>% # remove generic GOs
-  filter(orf %in% filter(charged.hits, net.charge < -0.5 & frac.charge > 0.6)$orf)
+  filter(orf %in% filter(charged.hits, net.charge < -0.5 & frac.charge > 0.5)$orf)
 ```
 
-`r knitr::kable(x)``
+`r knitr::kable(x)`
+
+`r knitr::kable(filter(charged.hits, net.charge < -0.5 & frac.charge > 0.5))`
