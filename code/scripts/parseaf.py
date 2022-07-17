@@ -144,7 +144,7 @@ def read_af_output(fdir, uniprot_id):
     output:
     mdtraj pdb file
     '''
-    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v1.pdb'
+    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
     if path.exists(fpath):
         pdb = md.load(fpath)
     else:
@@ -180,7 +180,7 @@ def get_freq_values_in_range(arr, lower_bound, upper_bound):
 
 def get_structure_label(fdir, uniprot_id, left_bound, right_bound,
                         helical_cutoff=0.8, bfactor_cutoff=0.5):
-    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v1.pdb'
+    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
     bfactor = read_bfactor_from_pdb(fpath)[left_bound:(right_bound+1)]
     len_region = right_bound - left_bound + 1
     disorder_freq = get_freq_values_in_range(bfactor, 0, 50)
