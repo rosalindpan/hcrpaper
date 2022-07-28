@@ -48,7 +48,7 @@ theme_set(theme_clean(base_size = 10))
 
 
 ```{r}
-charged.hits <- read.csv("../data/charged_regions/cr_raw.csv", comment.char = "#", stringsAsFactors = FALSE) %>%
+charged.hits <- read.csv("../data/charged_regions/cr_trimmed_filtered.csv", comment.char = "#", stringsAsFactors = FALSE) %>%
   filter(orf_label != "dubious") %>%
   mutate(n.E = str_count(region.seq, "E"),
      n.K = str_count(region.seq, "K"),
