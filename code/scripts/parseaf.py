@@ -21,7 +21,7 @@ for a in string.ascii_uppercase:
         aas.append(a)
 
 
-def get_alphafold_fp(uniprot_id, path_to_af_data, version='1'):
+def get_alphafold_fp(uniprot_id, path_to_af_data, version='1', gz=False):
     """
     Given a uniprot reference number, search a directory (path_to_af_data) with the alphafold
     data, and return the full filepath to pdb file that predicts the structure of this orf.
@@ -30,6 +30,8 @@ def get_alphafold_fp(uniprot_id, path_to_af_data, version='1'):
     """
     version = str(version)
     fpath = path_to_af_data + 'AF-' + str(uniprot_id) + '-F1-model_v{}.pdb'.format(version)
+    if gz:
+        fpath = path_to_af_data + 'AF-' + str(uniprot_id) + '-F1-model_v{}.pdb'.format(version)+'.gz'
 
     return(fpath)
 
