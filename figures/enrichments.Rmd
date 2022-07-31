@@ -49,7 +49,6 @@ theme_set(theme_clean(base_size = 10))
 
 ```{r}
 charged.hits <- read.csv("../data/charged_regions/cr_trimmed_filtered.csv", comment.char = "#", stringsAsFactors = FALSE) %>%
-  filter(orf_label != "dubious") %>%
   mutate(n.E = str_count(region.seq, "E"),
      n.K = str_count(region.seq, "K"),
      n.D = str_count(region.seq, "D"),
@@ -62,8 +61,6 @@ charged.hits <- read.csv("../data/charged_regions/cr_trimmed_filtered.csv", comm
      net.charge = ((n.K + n.R) - (n.E + n.D)) / region.len,
      gene = ifelse(gene == "MDN1", "REA1", gene)) # Correct old gene name
 ```
-
-
 
 
 
@@ -126,3 +123,10 @@ x = filter(allslims.allORFs, GO_name %!in% c("biological_process", "molecular_fu
 `r knitr::kable(x)`
 
 `r knitr::kable(filter(charged.hits, net.charge < -0.5 & frac.charge > 0.5))`
+
+
+
+```{r}
+
+```
+
