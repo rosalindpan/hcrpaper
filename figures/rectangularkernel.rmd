@@ -1,0 +1,82 @@
+---
+title: "hcrpaper"
+author: "Rosalind Pan"
+date: "10 May 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+hits_disordered_frac <- read.table("D:/research/drummond-lab/data/hits_disordered_frac.txt")
+rand_disordered_frac <- read.table("D:/research/drummond-lab/data/rand_disordered_frac.txt")
+idr_disordered_frac <- read.table("D:/research/drummond-lab/data/idr_disordered_frac.txt")
+```
+
+```{r}
+d_hits <- density(hits_disordered_frac$V1,
+             kernel = "rectangular")
+d_rand <- density(rand_disordered_frac$V1,
+             kernel = "rectangular")
+d_idr <- density(idr_disordered_frac$V1,
+             kernel = "rectangular")
+
+
+plot(d_idr, main = "Rectangular kernel", col='#828282',
+     xlim=c(0,1), ylim=c(0,2.5))
+lines(d_rand, main = "Rectangular kernel")
+lines(d_hits, main = "Rectangular kernel", col='#AA4499')
+legend(x = "topleft", legend=c('hits', 'rand', 'IDR'),
+       lty = c(1, 1, 1),
+       col = c('#828282', 'black', '#AA4499'))
+```
+
+```{r}
+hits_aq <- read.csv("D:/research/drummond-lab/data/aln_quality_hits.csv")
+rand_aq <- read.csv("D:/research/drummond-lab/data/aln_quality_random.csv")
+idr_aq <- read.csv("D:/research/drummond-lab/data/aln_quality_disprot.csv")
+```
+
+```{r}
+d_hits <- density(hits_aq$gappiness,
+             kernel = "rectangular")
+d_idr <- density(idr_aq$gappiness,
+             kernel = "rectangular")
+d_rand <- density(hits_aq$gappiness_null,
+             kernel = "rectangular")
+d_rand2 <- density(rand_aq$gappiness,
+             kernel = "rectangular")
+
+
+plot(d_hits, main = "Rectangular kernel", col='#AA4499',
+     xlim=c(0,1), ylim=c(0,3.5))
+lines(d_idr, main = "Rectangular kernel", col='#828282')
+lines(d_rand, main = "Rectangular kernel", col='black')
+lines(d_rand2, main = "Rectangular kernel", col='black', lty='dotted')
+legend(x = "topright", legend=c('hits', 'IDR', 'rand', 'rand2'),
+       lty = c(1, 1, 1, 4),
+       col = c('#AA4499', '#828282', 'black', 'black'))
+```
+
+```{r, fig.width=5, fig.height=5}
+d_hits <- density(hits_aq$seq_div,
+             kernel = "rectangular")
+d_idr <- density(idr_aq$seq_div,
+             kernel = "rectangular")
+d_rand <- density(hits_aq$seq_div_null,
+             kernel = "rectangular")
+d_rand2 <- density(rand_aq$seq_div,
+             kernel = "rectangular")
+
+
+plot(d_hits, main = "Rectangular kernel", col='#AA4499',
+     xlim=c(0,2), ylim=c(0,3.5))
+lines(d_idr, main = "Rectangular kernel", col='#828282')
+lines(d_rand, main = "Rectangular kernel", col='black')
+lines(d_rand2, main = "Rectangular kernel", col='black', lty='dotted')
+legend(x = "topright", legend=c('hits', 'IDR', 'rand', 'rand2'),
+       lty = c(1, 1, 1, 4),
+       col = c('#AA4499', '#828282', 'black', 'black'))
+```
