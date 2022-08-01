@@ -9,29 +9,38 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Figure S1A
+
 ```{r}
-hits_disordered_frac <- read.table("D:/research/drummond-lab/data/hits_disordered_frac.txt")
-rand_disordered_frac <- read.table("D:/research/drummond-lab/data/rand_disordered_frac.txt")
-idr_disordered_frac <- read.table("D:/research/drummond-lab/data/idr_disordered_frac.txt")
+scer_fclist100 <- read.table("/Users/rosalindpan/drummondlab/hcrpaper/data/fcr_distribution/scer_fclist100.txt")
+scer_fclist50 <- read.table("/Users/rosalindpan/drummondlab/hcrpaper/data/fcr_distribution/scer_fclist50.txt")
+scernull_fclist <- read.table("/Users/rosalindpan/drummondlab/hcrpaper/data/fcr_distribution/scernull_fclist.txt")
 ```
 
 ```{r}
-d_hits <- density(hits_disordered_frac$V1,
-             kernel = "rectangular")
-d_rand <- density(rand_disordered_frac$V1,
-             kernel = "rectangular")
-d_idr <- density(idr_disordered_frac$V1,
-             kernel = "rectangular")
+d_100 <- density(scer_fclist100$V1, kernel = "rectangular")
+plot(d_100, main = "Rectangular kernel", col='#828282',
+     xlim=c(0,1))
+```
 
 
-plot(d_idr, main = "Rectangular kernel", col='#828282',
+```{r}
+d_100 <- density(scer_fclist100$V1, kernel = "rectangular")
+d_50 <- density(scer_fclist50$V1, kernel = "rectangular")
+d_null <- density(scernull_fclist$V1, kernel = "rectangular")
+
+plot(d_100, main = "Rectangular kernel", col='#828282',
      xlim=c(0,1), ylim=c(0,2.5))
-lines(d_rand, main = "Rectangular kernel")
-lines(d_hits, main = "Rectangular kernel", col='#AA4499')
+lines(d_50, main = "Rectangular kernel")
+lines(d_null, main = "Rectangular kernel", col='#AA4499')
 legend(x = "topleft", legend=c('hits', 'rand', 'IDR'),
        lty = c(1, 1, 1),
        col = c('#828282', 'black', '#AA4499'))
 ```
+
+
+
+
 
 ```{r}
 hits_aq <- read.csv("D:/research/drummond-lab/data/aln_quality_hits.csv")
