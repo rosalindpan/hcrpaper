@@ -154,67 +154,63 @@ def read_af_output(fdir, uniprot_id):
     return pdb
 
 
-def get_percent_helix(fdir, uniprot_id, left_bound, right_bound):
-    """
-    DEPRICATED: not the classifier used in the final paper
-    """
-    af_pdb = read_af_output(fdir, uniprot_id)
-    if not af_pdb is None:
-        ss = md.compute_dssp(af_pdb, simplified=True)[0]
-        region_ss = ss[left_bound:(right_bound+1)]
-        helix_cnt = collections.Counter(region_ss)['H']
-        helix_p = helix_cnt / (right_bound - left_bound + 1)
-    else:
-        helix_p = None
-    return helix_p
+def get_percent_helix(ss, bfactor, len_region):
+     cnt_helix = 0
+     for i, label in enumerate(ss):
+         if (label == 'H') and (bfactor[i] >= 70):
+             cnt_helix += 1
+     return cnt_helix / len_region
 
 
-def get_freq_values_in_range(arr, lower_bound, upper_bound):
-    '''
-    helper function for get_disorder_label
-    '''
-    cnt_in_range = 0
-    for i in arr:
-        if (i >= lower_bound) and (i <= upper_bound):
-            cnt_in_range += 1
-    return cnt_in_range / len(arr) 
+def get_percent_disorder(ss, bfactor, len_region):
+     cnt_disorder = 0
+     for i, label in enumerate(ss):
+         if ((label == 'C') and (bfactor[i] >= 70)) or (bfactor[i] < 50):
+             cnt_disorder += 1
+     return cnt_disorder / len_region
 
 
 def get_structure_label(fdir, uniprot_id, left_bound, right_bound,
-                        helical_cutoff=0.8, bfactor_cutoff=0.5):
-    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
-    bfactor = read_bfactor_from_pdb(fpath)[left_bound:(right_bound+1)]
-    len_region = right_bound - left_bound + 1
-    disorder_freq = get_freq_values_in_range(bfactor, 0, 50)
-    order_freq = get_freq_values_in_range(bfactor, 70, 100)
-    p_helix = get_percent_helix(fdir, uniprot_id, left_bound, right_bound)
-    if disorder_freq >= bfactor_cutoff:
-        label = 'disordered'
-    elif (order_freq >= bfactor_cutoff) and (p_helix >= helical_cutoff):
-        label = 'helix'
-    else:
-        label = 'unclassified'
-    return label
+                         helical_cutoff=0.6, disorder_cutoff=0.6):
+     fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
+     if path.exists(fpath):
+         af_pdb = read_af_output(fdir, uniprot_id)
+         ss = md.compute_dssp(af_pdb, simplified=True)[0]
+         region_ss = ss[left_bound:(right_bound+1)]
+         bfactor = read_bfactor_from_pdb(fpath)[left_bound:(right_bound+1)]
+         len_region = right_bound - left_bound + 1
+
+         p_helix = get_percent_helix(region_ss, bfactor, len_region)
+         p_disorder = get_percent_disorder(region_ss, bfactor, len_region)
+
+         if p_disorder >= disorder_cutoff:
+             label = 'disordered'
+         elif p_helix >= helical_cutoff:
+             label = 'helix'
+         else:
+             label = 'unclassified'
+     else:
+         label = None
+     return label
 
 
 
 ### DELTE THIS AFTER TESTING ALL FIGURE NOTEBOOKS
 
 
-# def get_percent_helix(ss, bfactor, len_region):
-#     cnt_helix = 0
-#     for i, label in enumerate(ss):
-#         if (label == 'H') and (bfactor[i] >= 70):
-#             cnt_helix += 1
-#     return cnt_helix / len_region
-
-
-# def get_percent_disorder(ss, bfactor, len_region):
-#     cnt_disorder = 0
-#     for i, label in enumerate(ss):
-#         if ((label == 'C') and (bfactor[i] >= 70)) or (bfactor[i] < 70):
-#             cnt_disorder += 1
-#     return cnt_disorder / len_region
+#def get_percent_helix(fdir, uniprot_id, left_bound, right_bound):
+#    """
+#    DEPRICATED: not the classifier used in the final paper
+#    """
+#    af_pdb = read_af_output(fdir, uniprot_id)
+#    if not af_pdb is None:
+#        ss = md.compute_dssp(af_pdb, simplified=True)[0]
+#        region_ss = ss[left_bound:(right_bound+1)]
+#        helix_cnt = collections.Counter(region_ss)['H']
+#        helix_p = helix_cnt / (right_bound - left_bound + 1)
+#    else:
+#        helix_p = None
+#    return helix_p
 
 
 # def get_freq_values_in_range(arr, lower_bound, upper_bound):
@@ -250,6 +246,23 @@ def get_structure_label(fdir, uniprot_id, left_bound, right_bound,
 #     else:
 #         label = None
 #     return label
+
+
+#def get_structure_label(fdir, uniprot_id, left_bound, right_bound,
+#                        helical_cutoff=0.8, bfactor_cutoff=0.5):
+#    fpath = fdir + 'AF-' + str(uniprot_id) + '-F1-model_v2.pdb'
+#    bfactor = read_bfactor_from_pdb(fpath)[left_bound:(right_bound+1)]
+#    len_region = right_bound - left_bound + 1
+#    disorder_freq = get_freq_values_in_range(bfactor, 0, 50)
+#    order_freq = get_freq_values_in_range(bfactor, 70, 100)
+#    p_helix = get_percent_helix(fdir, uniprot_id, left_bound, right_bound)
+#    if disorder_freq >= bfactor_cutoff:
+#        label = 'disordered'
+#    elif (order_freq >= bfactor_cutoff) and (p_helix >= helical_cutoff):
+#        label = 'helix'
+#    else:
+#        label = 'unclassified'
+#    return label
 
 # # below 70% or above 70% and predicted coil
 
