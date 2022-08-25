@@ -1,2 +1,4 @@
 **/*.cxs
 ./data/ss_dis.txt
+**/.DS_Store
+figures/.DS_Store
