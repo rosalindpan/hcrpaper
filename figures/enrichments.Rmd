@@ -89,7 +89,7 @@ some.components.all.orfs <- filter(allslims.allORFs, GO_type == "cellular_compon
 
 
 
-```{r fig.width=9, fig.height=4.5}
+```{r fig.width=6, fig.height=2}
 ordering <- group_by(some.components.all.orfs, GO_name, hit) %>%
   summarise(num = n()) %>%
   reshape2::dcast(GO_name ~ hit, value.var="num") %>%
@@ -107,9 +107,11 @@ ggplot(some.components.all.orfs, aes(x = GO_name.f, fill = hit)) +
   geom_hline(yintercept = length(unique(charged.hits$orf))/5925,
              color="white") + # baseline frequency of all non-dubious active orfs from s. cer
   theme(axis.title.x = element_blank(),
-        axis.text.x = element_text(angle = 60, hjust = 1, vjust = 1, size=8))
+        axis.title = element_text(size=12),
+        axis.text.y = element_text(size=12),
+        axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1, size=10))
 
-#ggsave("../figures/S1-enrichments.png", width = 5, height = 3, units = "in")
+ggsave("../figures/S1-enrichments.png", width = 6.35, height = 3, units = "in")
 ```
 
 
