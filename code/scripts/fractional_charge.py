@@ -66,6 +66,7 @@ def is_above_threshold(f_charges, threshold):
             above_t.append((i,f))
     return above_t
 
+
 def identify_charged_regions(f_charges, threshold, tolerance=0):
     '''
     Minor issues:
@@ -91,27 +92,6 @@ def identify_charged_regions(f_charges, threshold, tolerance=0):
             total_diffs = 0
     return list_of_regions
 
-def trim_regions(fullseq, regions):
-    charged = ['K', 'R', 'D', 'E']
-    trimmed_regions = []
-    for region in regions:
-        seq = range_to_seq(fullseq, region)
-        n_uncharged_start = 0
-        n_uncharged_end = 0
-        for AA in seq:
-            if AA not in charged:
-                n_uncharged_start += 1
-            else:
-                break
-        for AA in seq[::-1]:
-            if AA not in charged:
-                n_uncharged_end += 1
-            else:
-                break
-        new_region = region[n_uncharged_start:(len(region) - n_uncharged_end)]
-        trimmed_regions.append(new_region)
-    return trimmed_regions
-
 
 def select_min_length(regions, min_length):
     new_list = []
@@ -121,21 +101,18 @@ def select_min_length(regions, min_length):
     return new_list
 
 
-def find_charged_regions(sequence, window_size, charge_threshold, min_length, tolerance,
-                         trim=True):
+def find_charged_regions(sequence, window_size, charge_threshold, min_length, tolerance):
     #print(mappings)
     gapless_seq = util.remove_gaps(sequence)
     f_charges = rolling_fractional_charges_weighted(gapless_seq, window_size)
     #print(f_charges)
     charged_regions = identify_charged_regions(f_charges, charge_threshold, tolerance=tolerance)
-    if trim:
-        charged_regions = trim_regions(sequence, charged_regions)
     long_charged_regions = select_min_length(charged_regions, min_length)
     return long_charged_regions
 
 
 def range_to_seq(fullseq, region):
-    seq_gapped = fullseq[region[0]:region[1]+1]
+    seq_gapped = fullseq[region[0]:(region[1]+1)]
     seq = util.remove_gaps(seq_gapped)
     return seq
 
@@ -192,7 +169,7 @@ def find_charged_seqs(sequence, window_size, charge_threshold, min_length, toler
     return charged_seqs
 
 
-
+'''
 # Helper functions for getting regions with high fraction of a null property from the proteome
 
 ## v0: letters from the first half of the alphabet
@@ -239,6 +216,7 @@ def find_alphabet_regions(sequence, window_size, threshold, min_length, toleranc
 def filter_alphabet_regions(sequence, regions, threshold):
     result = []
     for i in regions:
+        print(i)
         seq = range_to_seq(sequence, i)
         frac_first = get_alphabet_fraction(seq)
         #print(i)
@@ -365,3 +343,4 @@ def find_enriched_start_end(sequence, targets, window_size, threshold, min_lengt
     	combined_regions = filter_enriched_regions(sequence, targets, combined_regions, threshold)
 
     return combined_regions
+'''
